@@ -1,0 +1,5195 @@
+[
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f5cc8e6a06b94d52b3be25501b4c0cb5",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "f5cc8e6a06b94d52b3be25501b4c0cb5",
+      "dsid": "7A4845D0ECD5C5378E7540AA6918ED44",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初533号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "aad947d479ef72efa4d02eb2b2475608",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "aad947d479ef72efa4d02eb2b2475608",
+      "dsid": "EC4D4A817FFA4333374A042B4785F8CA",
+      "all_caseinfo_casenumber": "（2016）吉08刑申19号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "023695A8C92E4A054F21D85F1DE3FC46",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "023695A8C92E4A054F21D85F1DE3FC46",
+      "dsid": "F0F6F51C0E98BBDFEC7BA20C183B3A7A",
+      "all_caseinfo_casenumber": "（2017）沪刑辖23号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5ac9f1530a0c1fb7f88a45c0a0d3e78f",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "5ac9f1530a0c1fb7f88a45c0a0d3e78f",
+      "dsid": "0F95E766058B657B507CA1D8D70D541E",
+      "all_caseinfo_casenumber": "（2018）皖04刑辖79号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ee5e4c11d01839959762e13c40b0e1dd",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "ee5e4c11d01839959762e13c40b0e1dd",
+      "dsid": "FB66A516E3F37E6972A5D037B6BC1648",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初801号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ca181f1a60856dd59f5fcae4850efbd3",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "ca181f1a60856dd59f5fcae4850efbd3",
+      "dsid": "C1F4052FF70AE83302A1B411CF6608A8",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1130号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "708935d6257c0df7637010b83feb2b88",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "708935d6257c0df7637010b83feb2b88",
+      "dsid": "F51EC10ECC589C3F9F50B5848444E589",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1555号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "efe3674886920fbaaefbf78ced65f17b",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "efe3674886920fbaaefbf78ced65f17b",
+      "dsid": "3B7A4782739D44E7D681054519E2B9E3",
+      "all_caseinfo_casenumber": "（2017）最高法刑辖14号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d0833f456355519728e0fcf9689051de",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "d0833f456355519728e0fcf9689051de",
+      "dsid": "5AC4BB929A5CF4A12666320A36EC6022",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初585号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7a530aee9ca507e65c849ecf87721d14",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "7a530aee9ca507e65c849ecf87721d14",
+      "dsid": "AB92578A11C947D20D908B9563E4C902",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初960号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5b497aab6390ad3111bf57cf8db3b668",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "5b497aab6390ad3111bf57cf8db3b668",
+      "dsid": "091A8BCBDBABF37DD489B2F8EF16060A",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初958号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f846616adbcb476bb4288cb6dd9fd5a4",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "f846616adbcb476bb4288cb6dd9fd5a4",
+      "dsid": "442ED90A0AA737C6A485463EE581A434",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1388号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6aa985b5a72346ead26eef3d19f06398",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "6aa985b5a72346ead26eef3d19f06398",
+      "dsid": "A13101FBBDB118BCE5CADCE4DA21C176",
+      "all_caseinfo_casenumber": "（2014）嘉刑初字第1642号"
+    }
+  },
+
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fca8a514b01522b7dea770fb36879d4f",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "fca8a514b01522b7dea770fb36879d4f",
+      "dsid": "358F2599826E448B68983C53E770CA07",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1173号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "30e96236a09ffa2e06106ff40f6e6bc",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "30e96236a09ffa2e06106ff40f6e6bc",
+      "dsid": "750A2D160268F7B09BB607C0423A4131",
+      "all_caseinfo_casenumber": "（2016）沪02刑更775号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "28CAEB20E3FC4C1EDA0FC906885FFD8C",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "28CAEB20E3FC4C1EDA0FC906885FFD8C",
+      "dsid": "A3D77C67DC758CA62BBA2C8E13A8C1DB",
+      "all_caseinfo_casenumber": "（2014）平刑执字第258号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3614f213c30388e1ccccacdf478e8637",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "3614f213c30388e1ccccacdf478e8637",
+      "dsid": "B5A587E9F2415E75682BD51AEB0BDA3B",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初1036号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d549ddbfba439de603e91a456149cc9b",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "d549ddbfba439de603e91a456149cc9b",
+      "dsid": "1F7637B6A5BDA07CD359B515CDDF3DBC",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1365号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8C3D9E928CDEBAEEDF6F652145220D1A",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "8C3D9E928CDEBAEEDF6F652145220D1A",
+      "dsid": "84BBE435F51E84B5AEF9FE758DE53198",
+      "all_caseinfo_casenumber": "（2016）沪0109刑初829号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7EA7362E949127E1C424F1999E3018D8",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "7EA7362E949127E1C424F1999E3018D8",
+      "dsid": "1E739766ED22D41432C146BCFE493C20",
+      "all_caseinfo_casenumber": "（2018）苏0302执577号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d17466151e2b33eea02d87e0a0b034a5",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "d17466151e2b33eea02d87e0a0b034a5",
+      "dsid": "AE299D4608E124DBAA8DAA04321B19B0",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1831号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2d12f69e863503f53c241bbcce953018",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "2d12f69e863503f53c241bbcce953018",
+      "dsid": "F8465E82DF73F97E380DA4E0476B9EA4",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1554号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "830681b45cb2b515a6bb18d9772e96",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "830681b45cb2b515a6bb18d9772e96",
+      "dsid": "9861E05FB886180ED4CA1F18164449CD",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1189号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "FC42595E1369D3662CAE7E85032A4CB7",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "FC42595E1369D3662CAE7E85032A4CB7",
+      "dsid": "24B96916AFFACBCE2AFFF90A9F66789C",
+      "all_caseinfo_casenumber": "（2016）沪刑辖21号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c28ef04532f1df0e243f80bff6b8e1f0",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "c28ef04532f1df0e243f80bff6b8e1f0",
+      "dsid": "C78310D8A94D83B7A7FCC534635EB57E",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1164号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "265686af18cf8af62d21551a01d45b1b",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "265686af18cf8af62d21551a01d45b1b",
+      "dsid": "B7D98B19EE5DAA66A94F6EA2C085324E",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初873号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6843c513f1630ecacdcd543bbe40ea05",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "6843c513f1630ecacdcd543bbe40ea05",
+      "dsid": "6AEF1B53F83B0E6AADAF566D5A4443AA",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初511号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "427191cbf7fe9f43a9f8c1973b7723a",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "427191cbf7fe9f43a9f8c1973b7723a",
+      "dsid": "0952156EBAB005AF1E62ACC858A5CDB9",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1429号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "F1108A2962E98D4C9D80B4A0E53DD41B",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "F1108A2962E98D4C9D80B4A0E53DD41B",
+      "dsid": "CC3060D5967C38C4AE82BE39578E1B6C",
+      "all_caseinfo_casenumber": "（2018）甘12刑更118号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b541ab543a392c26bc21b4f40f335f3a",
+    "_score": 13.072454,
+    "_source": {
+      "jid": "b541ab543a392c26bc21b4f40f335f3a",
+      "dsid": "0A9B237452501608FFBC319781EB19C5",
+      "all_caseinfo_casenumber": "（2017）浙0603执5390号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2cc034a92ff508914b030950c80a1b7d",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "2cc034a92ff508914b030950c80a1b7d",
+      "dsid": "C225499DB954C0119283842A73C65D31",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1300号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "db138ab3a1340e2a3fec75007eb6a62c",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "db138ab3a1340e2a3fec75007eb6a62c",
+      "dsid": "3C92CFB7686EFB97765F1735A048AA3E",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初813号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b35a0994a34b927bda5a7a557e47b72c",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "b35a0994a34b927bda5a7a557e47b72c",
+      "dsid": "C226E3180605284EDDA4805796143945",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初783号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b3357deaa07af6ac70ffa96d206d0205",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "b3357deaa07af6ac70ffa96d206d0205",
+      "dsid": "85317A748A51B5D6258E7C1E62EFD40C",
+      "all_caseinfo_casenumber": "（2016）沪0109刑初682号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "623a735f0403cac34bd16d7ae95fbab4",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "623a735f0403cac34bd16d7ae95fbab4",
+      "dsid": "9B08D0578CDB2EB75EC1D268D95A5BB8",
+      "all_caseinfo_casenumber": "（2015）浦刑初字第4858号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c78673fbedcdd396caad9de74ff0f875",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "c78673fbedcdd396caad9de74ff0f875",
+      "dsid": "D7D89D02560EACA54AAA6B84C7EF6CAC",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1523号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "db142b252f076d6109c9f1112455408d",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "db142b252f076d6109c9f1112455408d",
+      "dsid": "9CA70FD8D2A990F3B7EDA51EF93624C8",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初1046号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "da9b7bb6aa756114f0a4b71cccf6ee31",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "da9b7bb6aa756114f0a4b71cccf6ee31",
+      "dsid": "70CB0E35570D445C0E8F91469F520B5A",
+      "all_caseinfo_casenumber": "（2016）沪02刑更786号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1601fc0f684de0afb392a4441e337fb7",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "1601fc0f684de0afb392a4441e337fb7",
+      "dsid": "BCD419602F6EA642A956B3E6738AA2C4",
+      "all_caseinfo_casenumber": "（2013）安中刑申字第30号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d2952c7d0f05c39d5f990d364d1752aa",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "d2952c7d0f05c39d5f990d364d1752aa",
+      "dsid": "12367D5702F931E6BCC314403365FE2E",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初1021号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "22833304336cb77c7303b1813bf5d1f7",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "22833304336cb77c7303b1813bf5d1f7",
+      "dsid": "70902181944B45705129C402B21DA628",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初3590号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "850443d8f4f180526f6e762225657540",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "850443d8f4f180526f6e762225657540",
+      "dsid": "175DC8F859466FB95C0CE021D43F049C",
+      "all_caseinfo_casenumber": "（2016）沪02刑更1089号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f0f844d3ccd157b1954cdd64fdb39418",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "f0f844d3ccd157b1954cdd64fdb39418",
+      "dsid": "E0586D1B0FD1467212630393A5351F4F",
+      "all_caseinfo_casenumber": "（2014）沪一中刑初字第145号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "C7A2E5485AB4DEF022EB394138434E2D",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "C7A2E5485AB4DEF022EB394138434E2D",
+      "dsid": "F4061852805693DFF0627F54D9D75120",
+      "all_caseinfo_casenumber": "（2015）平刑执字第253号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "becf62b9ac044359143e3885ad720aec",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "becf62b9ac044359143e3885ad720aec",
+      "dsid": "DF478DFC03AC40FF8EC61E462A19DCE4",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初846号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a934912e56d28f9876b6a6b2a3f2ffc8",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "a934912e56d28f9876b6a6b2a3f2ffc8",
+      "dsid": "D44B99E3F4ED41D5538C3ED1A1565EFD",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1511号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "731843a171a6738bc3fa6252c9659177",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "731843a171a6738bc3fa6252c9659177",
+      "dsid": "1199F170D7BC39CD53CDE7CF779BD8F8",
+      "all_caseinfo_casenumber": "（2017）浙0122刑更2号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ac9c528c647b6f4186d1d2f35a30acbb",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "ac9c528c647b6f4186d1d2f35a30acbb",
+      "dsid": "E1046AF3D13D89CD7C48C9CC8C59DA9D",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初2120号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "005C2D277D3E34DC687B9DEA7059FEBF",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "005C2D277D3E34DC687B9DEA7059FEBF",
+      "dsid": "5A90036D4539B877C280E105221577B2",
+      "all_caseinfo_casenumber": "（2015）杭萧刑初字第114号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "91542fc4fe7cea4996f9bbfd633b844f",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "91542fc4fe7cea4996f9bbfd633b844f",
+      "dsid": "374D1CC55DC2EAF0C8E7C83BAA6D5597",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初4122号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9b0871ec1a3b76ea30ae8dd477a74b88",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "9b0871ec1a3b76ea30ae8dd477a74b88",
+      "dsid": "A0DB030B1C53E387D9B266FA006A0D43",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1430号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "98d36f30330ca797856ac349b51201e4",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "98d36f30330ca797856ac349b51201e4",
+      "dsid": "F0D8C65BB11821C44637A8552D39DDA1",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1762号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "dea0445d5580cf08e44139abb0147d39",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "dea0445d5580cf08e44139abb0147d39",
+      "dsid": "E24DD12BD88A0DAB832D01175B65A295",
+      "all_caseinfo_casenumber": "（2018）鲁11刑辖4号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ed6ca9c0f1a860e39ca4276629907495",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "ed6ca9c0f1a860e39ca4276629907495",
+      "dsid": "9444E4A0AB43C4BDC252B011D1C7EF97",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1597号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9bbbf2e423b96d65b3ef702339d37bd2",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "9bbbf2e423b96d65b3ef702339d37bd2",
+      "dsid": "1F7A772666A262C623B47D0E9F1B21FE",
+      "all_caseinfo_casenumber": "（2016）沪0109刑初666号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a7a720aea6ca5f32f60c4146d22f4120",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "a7a720aea6ca5f32f60c4146d22f4120",
+      "dsid": "93C69E1DE8F281502A8ACA99178AC56D",
+      "all_caseinfo_casenumber": "（2017）晋08刑辖第27号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "11f9ff990e7aff805b25aaedc1620822",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "11f9ff990e7aff805b25aaedc1620822",
+      "dsid": "A3DF4EE57D04BD9B7D4DE5771A1663DE",
+      "all_caseinfo_casenumber": "（2016）黑07刑申13号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "29D310DA89B440B13AE84DF884E23E92",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "29D310DA89B440B13AE84DF884E23E92",
+      "dsid": "40ED06E9F331763811F320AEA017F470",
+      "all_caseinfo_casenumber": "（2017）新23刑更263号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "C428A70AD6F40A7B75C0689F8CED98B5",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "C428A70AD6F40A7B75C0689F8CED98B5",
+      "dsid": "A377E1D930AEE4E356C4D0C5C76A1342",
+      "all_caseinfo_casenumber": "（2017）沪刑辖325号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "48455318fe90fbf339df4a781b3dc3a7",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "48455318fe90fbf339df4a781b3dc3a7",
+      "dsid": "73ACDF3737070C6047DB794215F6405F",
+      "all_caseinfo_casenumber": "（2016）冀刑申186号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5cd4d8d333124961e1336d1896519794",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "5cd4d8d333124961e1336d1896519794",
+      "dsid": "353DF400B699DDC1141B684806D006F3",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1615号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d5c026163612535920e1f144ec66fea5",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "d5c026163612535920e1f144ec66fea5",
+      "dsid": "A70BD983F5AFA067B105323DEB9A9D4F",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初590号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9e22049f88cfcc0cdea69b7c7720eef3",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "9e22049f88cfcc0cdea69b7c7720eef3",
+      "dsid": "8B1DB5EFAE5867D7E65A836D11C37D51",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1225号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "773a374bb13dc2d9da637dea928701fb",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "773a374bb13dc2d9da637dea928701fb",
+      "dsid": "3E4A8F651A4AEF76C10C6AA32D6F1445",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初3080号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "23c51b39bfba2197f80a468b23e7b030",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "23c51b39bfba2197f80a468b23e7b030",
+      "dsid": "E05B301ED7E7E9471D89486B561F2DFE",
+      "all_caseinfo_casenumber": "（2017）辽02刑初132号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "63F56AD968931837266C2F7424D75354",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "63F56AD968931837266C2F7424D75354",
+      "dsid": "EB9050B6A9B7F0C784B64CA3F6E6EECF",
+      "all_caseinfo_casenumber": "（2018）浙1004刑初316号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a7733898d650d73b088ca46166ca731f",
+    "_score": 13.064463,
+    "_source": {
+      "jid": "a7733898d650d73b088ca46166ca731f",
+      "dsid": "C1CE1C7070640B0FC2DB5EF7078C538E",
+      "all_caseinfo_casenumber": "（2018）苏0611执恢107号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "65c2f7e0b03674b8a85392c41847824a",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "65c2f7e0b03674b8a85392c41847824a",
+      "dsid": "E075F61165B9863B91AD865B29A850EC",
+      "all_caseinfo_casenumber": "（2017）辽02刑申45号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8c1cbef0d28f22b20c9411947215d23c",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "8c1cbef0d28f22b20c9411947215d23c",
+      "dsid": "2DB1F8D8383A584D25A8805DD9E2ADD4",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初1075号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cd4fd32de9afcc905ddbb13d2ab5010",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "cd4fd32de9afcc905ddbb13d2ab5010",
+      "dsid": "0665935505F83A976625C47FA04DA923",
+      "all_caseinfo_casenumber": "（2015）庆刑申字第42号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "64708d11d74944a0ca55ca7046754c19",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "64708d11d74944a0ca55ca7046754c19",
+      "dsid": "044A201488A411759D9EB35FC030A715",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初884号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "74c85810da243bdcf927de42ecaa4d00",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "74c85810da243bdcf927de42ecaa4d00",
+      "dsid": "0B45131CF14E4F35FA50DBDCA78CF159",
+      "all_caseinfo_casenumber": "（2015）长刑初字第1252号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "58f2d49759d8c7df9e27faf43f3139f6",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "58f2d49759d8c7df9e27faf43f3139f6",
+      "dsid": "DC9EA95EEFC2C0B86523D036CB06D06F",
+      "all_caseinfo_casenumber": "（2014）徒刑执字第00005号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2c92e840db245eb08ba72b52939cc82f",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "2c92e840db245eb08ba72b52939cc82f",
+      "dsid": "D9FB309F4F17A2FA494F15902AFB1BC7",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1195号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4D495E2B592ED0EF42E05DC428B54D4F",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "4D495E2B592ED0EF42E05DC428B54D4F",
+      "dsid": "420CA482825E97D5CE891C29C0369669",
+      "all_caseinfo_casenumber": "（2014）杭萧刑执字第40号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fb44b43b02dcaccba972e34ec34cb448",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "fb44b43b02dcaccba972e34ec34cb448",
+      "dsid": "40D619CB8FA006C3E4E0D5C3EC65640B",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1731号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "A6772EA61301DADDC7C9051CEDB50064",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "A6772EA61301DADDC7C9051CEDB50064",
+      "dsid": "5726AE50D7A3AFF1E6DEDF1D69C098A9",
+      "all_caseinfo_casenumber": "（2017）沪0117刑初484号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4c4d330c1ede90115fbb8ff9be1070d7",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "4c4d330c1ede90115fbb8ff9be1070d7",
+      "dsid": "E33D7EB60BF404C804781A6BA2BD658D",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初1011号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8ec58f49792aec34e6d07342f9e49fef",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "8ec58f49792aec34e6d07342f9e49fef",
+      "dsid": "D109EF334A4254900F3568EE9BC8B5A5",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初907号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c91741982f613024d9646b6559fa5a8c",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "c91741982f613024d9646b6559fa5a8c",
+      "dsid": "846E97B3BA188C9602B535E147B73C64",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初541号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "575766cdd135a73f96c74fdf795274ed",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "575766cdd135a73f96c74fdf795274ed",
+      "dsid": "FCCA2B08A68DF295597808FC15A528F6",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1132号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cb1399b76be153e7e2adad7a3f5664b2",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "cb1399b76be153e7e2adad7a3f5664b2",
+      "dsid": "66913D4EBC321FD90B0EF593680E74A4",
+      "all_caseinfo_casenumber": "（2017）苏0707刑申1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7412fac6b4cdf1967ce4ed24026264ca",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "7412fac6b4cdf1967ce4ed24026264ca",
+      "dsid": "B60899ED0C30ADA1C1DD2FF9FCC5248A",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初984号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "A62612F9E4062F5A5637E93BBF7EE2DD",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "A62612F9E4062F5A5637E93BBF7EE2DD",
+      "dsid": "EF6EEEACA81E7E2C067F1117AA64567E",
+      "all_caseinfo_casenumber": "（2016）浙0727刑更00003号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3f3f956b523289df05b6696aecb2c38",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "3f3f956b523289df05b6696aecb2c38",
+      "dsid": "A04279A5D77885DBC2ED9C93D13473C4",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初466号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3af5bc9f73875791401aea8661cd2245",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "3af5bc9f73875791401aea8661cd2245",
+      "dsid": "BC0E4D03825440876E65EF74F8008B41",
+      "all_caseinfo_casenumber": "（2016）沪0104刑初311号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a68617c25e70522fdf913a781accf367",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "a68617c25e70522fdf913a781accf367",
+      "dsid": "A6AEBC22F5EBB551770A20F6B8713F38",
+      "all_caseinfo_casenumber": "（2014）嘉刑初字第947号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d1c45229351ba5361bed0e853b0a52a3",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "d1c45229351ba5361bed0e853b0a52a3",
+      "dsid": "90959CE7A33441BC38380D4FE7A08EFC",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1241号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "10759aeef79191cf21ee0483ff906f0d",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "10759aeef79191cf21ee0483ff906f0d",
+      "dsid": "7181BE2C7DA476E15772A74158D566BA",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初1063号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cff82ef658820e9e80ea18dd35bced81",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "cff82ef658820e9e80ea18dd35bced81",
+      "dsid": "401FD6D431B706995C503C403040A03A",
+      "all_caseinfo_casenumber": "（2016）豫1702执3690号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3a4fca02491703defbcad2a4072dde9f",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "3a4fca02491703defbcad2a4072dde9f",
+      "dsid": "65AAF9CBD322A1ECD833AD94693A608C",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1524号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "223FD653ADF0D46BC0B62C6ED0534478",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "223FD653ADF0D46BC0B62C6ED0534478",
+      "dsid": "E68D43D9A80FD3299BD235D411A871D5",
+      "all_caseinfo_casenumber": "（2017）内0302刑初165号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a1fc60213aaca78ae95ce7371730c5e3",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "a1fc60213aaca78ae95ce7371730c5e3",
+      "dsid": "24D3BD3FEB876B6FAF17A299CC94279B",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初847号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3a7683978932c22a25b2e7c82e6e8b3f",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "3a7683978932c22a25b2e7c82e6e8b3f",
+      "dsid": "1AB70C3862502985C0D2CE272EA6024F",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初1077号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "19f7dad6da12515ee8b1842d9227b2f7",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "19f7dad6da12515ee8b1842d9227b2f7",
+      "dsid": "AC167105540F497696B8E7B67730DEC7",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1037号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1add1eb10f367ba1bafd37aa88fec16c",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "1add1eb10f367ba1bafd37aa88fec16c",
+      "dsid": "E658D8BFA84EF1846CCE40682FC118D4",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初143号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f554625d0921653da74950118945608",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "f554625d0921653da74950118945608",
+      "dsid": "1222DBBA0F36AA597EC2199E72243FDB",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初536号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "310C189325A0B0909A7A737650231C6E",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "310C189325A0B0909A7A737650231C6E",
+      "dsid": "8997D33FADC65AC8E32722496BE5D7DA",
+      "all_caseinfo_casenumber": "（2017）内0302刑初169号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "716218da4d6e38d7d6957ec7efc7ff28",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "716218da4d6e38d7d6957ec7efc7ff28",
+      "dsid": "54EDE8F3EAF6F2E4702A39A29716D8A8",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初897号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9cf6dfb8b2bb2909ed3ff9547470815a",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "9cf6dfb8b2bb2909ed3ff9547470815a",
+      "dsid": "D04793891C9D20D3E2934C2B49A97109",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初971号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d70d7ef95c1f4ec72acabbf171b1dbe4",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "d70d7ef95c1f4ec72acabbf171b1dbe4",
+      "dsid": "7210360ACFBAD7F37FCAACD5D8C71824",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初456号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "53bd04cdeb0f58c64ad2640bbdd4d360",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "53bd04cdeb0f58c64ad2640bbdd4d360",
+      "dsid": "11E0D37F2B34BF08F9A9764B9FD3BAB6",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1842号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1a7f09b1379bc7e56bd1516199b4e005",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "1a7f09b1379bc7e56bd1516199b4e005",
+      "dsid": "E56D39E03D10BA62B57E39C383A55AD9",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初1075号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "782e71c2b4b58b02312be16d158f67ef",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "782e71c2b4b58b02312be16d158f67ef",
+      "dsid": "EA766E43EA938480BF5DEC98250202E3",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初842号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7e814ca7bfafb96766dfc19fe7112158",
+    "_score": 13.0598,
+    "_source": {
+      "jid": "7e814ca7bfafb96766dfc19fe7112158",
+      "dsid": "B0230F2685A492625A2B6D85DF51AD31",
+      "all_caseinfo_casenumber": "（2018）鄂0281刑初87号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "E646AE954D39FE08BF96B4F2236BB17C",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "E646AE954D39FE08BF96B4F2236BB17C",
+      "dsid": "6A7EE3AC049E0C64712832F6A884F239",
+      "all_caseinfo_casenumber": "（2014）四西刑公初字第80号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ae832e0d5e4ae18aaa563076a94f0246",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "ae832e0d5e4ae18aaa563076a94f0246",
+      "dsid": "2195B779E993BE8C6CFEC5F4F9EA0ED8",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初470号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3d40719cadc1c47f186a7f57b2435cc4",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "3d40719cadc1c47f186a7f57b2435cc4",
+      "dsid": "30132DC0A62D7EB4E083108A3CCF409C",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初455号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "DBA47A25A18938ABC71FC5187A04A677",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "DBA47A25A18938ABC71FC5187A04A677",
+      "dsid": "E9FE0CBDE7BA8FD1DFE738F3BAC20617",
+      "all_caseinfo_casenumber": "（2017）渝02刑终506号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2415b891f941ae21f89c9e4ae1c4dfea",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "2415b891f941ae21f89c9e4ae1c4dfea",
+      "dsid": "ACA8B327DFCEE8EA4C142D2499B76419",
+      "all_caseinfo_casenumber": "（2016）沪02刑更983号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "AB27684876E839672AE2DE41C072DB79",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "AB27684876E839672AE2DE41C072DB79",
+      "dsid": "F276FB9BA8CAF08DD54B969E210812A6",
+      "all_caseinfo_casenumber": "（2017）沪01刑辖155号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c4f2d494850732a8ad82185e06e3adb5",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "c4f2d494850732a8ad82185e06e3adb5",
+      "dsid": "727CB4E0EFBE8F8000F51D303D123CC6",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初36号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "79e8715b4575ddda04b9cb718500460e",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "79e8715b4575ddda04b9cb718500460e",
+      "dsid": "EBBA659AAF9364FFD6EA39D4CEB6C5FB",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初979号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d46c399d382a38b1023810a1ce771655",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "d46c399d382a38b1023810a1ce771655",
+      "dsid": "3031C4CBF3F9D97925673F07802966F6",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初523号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3a9262b2e80d42850949b82eb34682de",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "3a9262b2e80d42850949b82eb34682de",
+      "dsid": "317F599DC059327621216C9AAC01C614",
+      "all_caseinfo_casenumber": "（2015）沪二中刑初字第104号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6e79d6a10e98db65840a210a5f4095ae",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "6e79d6a10e98db65840a210a5f4095ae",
+      "dsid": "F662D684F93627C82F00845CAD1640CF",
+      "all_caseinfo_casenumber": "（2014）浦刑初字第2668号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e8bbdd9fcd1db1c1fc965997ae88672b",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "e8bbdd9fcd1db1c1fc965997ae88672b",
+      "dsid": "CA87613472943AD3CB3BA78A00248019",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初781号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9476077c465309c33c10417565ba189b",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "9476077c465309c33c10417565ba189b",
+      "dsid": "83C25B138491BA9179406685E3FCF8E2",
+      "all_caseinfo_casenumber": "（2017）川0823执992号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7c68b9d2593d229bd11fcd7bd2221edf",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "7c68b9d2593d229bd11fcd7bd2221edf",
+      "dsid": "AA04B9262C4E25473AB2F00D94CF2A7A",
+      "all_caseinfo_casenumber": "（2017）苏0707刑监2号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d3decf3aa5c97e0788a24c91897cd77",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "d3decf3aa5c97e0788a24c91897cd77",
+      "dsid": "943C4DC90C5AF54FDD273711D66CB711",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初950号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "19cd78280397fccb2329005721c6ea3e",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "19cd78280397fccb2329005721c6ea3e",
+      "dsid": "1B725BB22804130F176E3C704F66DA82",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初979号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a74396993e6b01917164e1741c1c20cc",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "a74396993e6b01917164e1741c1c20cc",
+      "dsid": "01BAF467C9207EB91FF18D365DDC7F43",
+      "all_caseinfo_casenumber": "（2016）沪02刑更884号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "66979f5d405d09ac607ad462218e55b2",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "66979f5d405d09ac607ad462218e55b2",
+      "dsid": "44D8B772198BD5D0ABCA22548295F671",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1803号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "969420483e66fd79c42e081f81275e76",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "969420483e66fd79c42e081f81275e76",
+      "dsid": "94599A770D61808B67769FDDD04ECC7A",
+      "all_caseinfo_casenumber": "（2014）松刑初字第796号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8cc40f194ce7df2a76c8b0085684d2d",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "8cc40f194ce7df2a76c8b0085684d2d",
+      "dsid": "AE67F09BCC8570CFBD8F32E2A24F5210",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1804号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3ad353c45b02e686293cd3502edd165a",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "3ad353c45b02e686293cd3502edd165a",
+      "dsid": "454F12B5935AFDC40EC55991E0DA6B57",
+      "all_caseinfo_casenumber": "（2016）苏0291刑初369号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "60c151ef83bb835cab60a02fd96d3543",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "60c151ef83bb835cab60a02fd96d3543",
+      "dsid": "0E3F91699C1C9BDA97CA855BBF8F44FF",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初1165号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "64106366c78b6b7683bec2ad269517d2",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "64106366c78b6b7683bec2ad269517d2",
+      "dsid": "6812E2FB7A0F1830307FDA24ECFCD7CA",
+      "all_caseinfo_casenumber": "（2014）沪一中刑初字第65号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "17bec75903732e7de89ed0bc3732ca25",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "17bec75903732e7de89ed0bc3732ca25",
+      "dsid": "74CCB2005E464293003259F191659F23",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初836号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ed00d3417d0a5dae17c33a739649a12b",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "ed00d3417d0a5dae17c33a739649a12b",
+      "dsid": "52429C51750B8BC62DBF76858EE750EB",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1463号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5b48699eb34adde51e6bae16acf4b5d5",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "5b48699eb34adde51e6bae16acf4b5d5",
+      "dsid": "CD32CED3B02D665292ECC3775C2375DF",
+      "all_caseinfo_casenumber": "（2016）苏01刑更4714号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "035D952D7BE52DEB38E32E406101903B",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "035D952D7BE52DEB38E32E406101903B",
+      "dsid": "EE5B623003E9DB1A17CE5083B2D0A05A",
+      "all_caseinfo_casenumber": "（2017）沪刑辖127号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "92A2AE8109732C229D50F7A3E76D5C0A",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "92A2AE8109732C229D50F7A3E76D5C0A",
+      "dsid": "AA6902B726064B6587D2B8C687936C3C",
+      "all_caseinfo_casenumber": "（2017）沪刑辖254号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d056c1349bc92e363c1ba11f2be4a574",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "d056c1349bc92e363c1ba11f2be4a574",
+      "dsid": "4CC0537CAECD5BA76CF1D084B466B2D5",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初422号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a5a40be55bfed9cb963a8b9844b98d4b",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "a5a40be55bfed9cb963a8b9844b98d4b",
+      "dsid": "2EC40B72DFAC30099DE90E8B53587352",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初1037号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ba7669c78e67a46a2658605cc43e9b90",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "ba7669c78e67a46a2658605cc43e9b90",
+      "dsid": "76E0DFCA72C61666FEA6E1639C167248",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初435号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "35621d2da0f9a47f02b2a9274b5bfc72",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "35621d2da0f9a47f02b2a9274b5bfc72",
+      "dsid": "890BCC7A6508FDA5EA59E4CBA6388FFE",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初982号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "62f08d6fbac2486d94bb43734067d1db",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "62f08d6fbac2486d94bb43734067d1db",
+      "dsid": "3AB72AEAD22276A549AAB1A431DA9489",
+      "all_caseinfo_casenumber": "（2018）鄂0281刑初114号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "A769FC8990A0C8375B4F9B4694961FE8",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "A769FC8990A0C8375B4F9B4694961FE8",
+      "dsid": "306D127E4145EED8EE2B84EAAE81349A",
+      "all_caseinfo_casenumber": "（2017）闽01刑辖230号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "C029C9126BC9BE6E7B89CEAB1E2DB4FB",
+    "_score": 13.059501,
+    "_source": {
+      "jid": "C029C9126BC9BE6E7B89CEAB1E2DB4FB",
+      "dsid": "EA21A656D1EB3C10E88378AA04FB07D0",
+      "all_caseinfo_casenumber": "（2018）辽07刑初1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ee77c59437fa3cebfe66a05d03a2947e",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "ee77c59437fa3cebfe66a05d03a2947e",
+      "dsid": "A026080EE125F0610F44E7DAC8EC299B",
+      "all_caseinfo_casenumber": "（2018）皖04刑辖80号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c869f6d5f62e930d3376ce1428d6aaea",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "c869f6d5f62e930d3376ce1428d6aaea",
+      "dsid": "C62EA8E1D5E706BD9E89EAA6B22CF7B1",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1340号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "881a601208fea94b34158c4378ec543",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "881a601208fea94b34158c4378ec543",
+      "dsid": "BF16A03F156D04D45B40BA119773AD21",
+      "all_caseinfo_casenumber": "（2014）鄂江陵刑初字第00143号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c5cdf48cef4bb5f4770d74940e07b7ae",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "c5cdf48cef4bb5f4770d74940e07b7ae",
+      "dsid": "61E2F9B037C739A9AC4CEEBEF9D462A4",
+      "all_caseinfo_casenumber": "（2016）沪02刑更905号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1b2c34fd20651be5d0811e46f2cd16bf",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "1b2c34fd20651be5d0811e46f2cd16bf",
+      "dsid": "77583B65547D86A4DBBDDACCFDE28717",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1882号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f437af84f36bf4b6869cb6943655b865",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "f437af84f36bf4b6869cb6943655b865",
+      "dsid": "03A76EEC536C81902F4C7AA7B3EC9913",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初824号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "F20239705611BE760CF2222B37683267",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "F20239705611BE760CF2222B37683267",
+      "dsid": "F0EADFCE893502BB505308C33C5FB493",
+      "all_caseinfo_casenumber": "（2016）浙0109刑更4号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "DE19E56D004D79D4779D3E50B0FE3FD2",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "DE19E56D004D79D4779D3E50B0FE3FD2",
+      "dsid": "6A92AE8B2E364EA44D6FF46824261DA0",
+      "all_caseinfo_casenumber": "（2015）温永执刑财字第195号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "AFFF4D19998E097512546C14A8052B24",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "AFFF4D19998E097512546C14A8052B24",
+      "dsid": "06BA4B05E3FAA0CA3D1A08BF24DA9C18",
+      "all_caseinfo_casenumber": "（2014）杭萧刑执字第41号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "992f2aed9c5693ac0e600fb6b6254488",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "992f2aed9c5693ac0e600fb6b6254488",
+      "dsid": "644B7129687B660FB9232175C1758701",
+      "all_caseinfo_casenumber": "（2016）沪0104刑初440号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "55a696d13b59d6407cb36ebf14da6b3",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "55a696d13b59d6407cb36ebf14da6b3",
+      "dsid": "1BADF8E18B2D25C9A7E182A63484B255",
+      "all_caseinfo_casenumber": "（2016）沪0112刑初2643号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "21a09427a447bf5456984e16fa81d175",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "21a09427a447bf5456984e16fa81d175",
+      "dsid": "E8B086C682AA7DE8CDDB870C56039D23",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初988号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6E2E9277C5D68E7AFCF3A236BEB9F8C9",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "6E2E9277C5D68E7AFCF3A236BEB9F8C9",
+      "dsid": "40BD10F2CD56A9161821B09C7532D028",
+      "all_caseinfo_casenumber": "（2016）浙07刑终1108号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "62b722edb8d74a7cef0a93b7c599af5",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "62b722edb8d74a7cef0a93b7c599af5",
+      "dsid": "D8956B096AC2A6D85ED6D29483F1E1C5",
+      "all_caseinfo_casenumber": "（2014）吴刑二初字第082号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f3aadf6715d9481044b76a5d0070cfe",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "f3aadf6715d9481044b76a5d0070cfe",
+      "dsid": "1AE048BFC7E7A40E77887C7FE8EBF25A",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1507号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fe53841837559a256810bd0c54a94b",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "fe53841837559a256810bd0c54a94b",
+      "dsid": "C3D44AF8DE6B7395D3667F3643DD0F6B",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1054号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9e28d984c7178e1e89d0ea8a8fe98e4",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "9e28d984c7178e1e89d0ea8a8fe98e4",
+      "dsid": "B91C9709EE71A3F56D86EDC921A902C1",
+      "all_caseinfo_casenumber": "（2016）沪0120刑初1620号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7BD9B38679832272B1982D68387E7157",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "7BD9B38679832272B1982D68387E7157",
+      "dsid": "1869A4BC02A2F1E435D7B2F21AEF9738",
+      "all_caseinfo_casenumber": "（2017）宁刑申58号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f190abde4c88077f03e2e0adc462e8d0",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "f190abde4c88077f03e2e0adc462e8d0",
+      "dsid": "D493F1B7CA293EBE2C09E8933400BB02",
+      "all_caseinfo_casenumber": "（2014）鄂江陵刑初字第00143-1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1b82e0ac48dcad850dfbf837a48913f7",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "1b82e0ac48dcad850dfbf837a48913f7",
+      "dsid": "CE04D6F4D5E27C611FF05BCD60A234E8",
+      "all_caseinfo_casenumber": "（2014）东刑二移字第1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d7f07e5856289586ba3e5eb3ed17b98c",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "d7f07e5856289586ba3e5eb3ed17b98c",
+      "dsid": "FA13711DFD48AA7829868638428E3DAD",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1684号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "20933e564f765c75b72b748650413645",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "20933e564f765c75b72b748650413645",
+      "dsid": "27EB9D7A455EA2F90E14026AC53D6FC1",
+      "all_caseinfo_casenumber": "（2016）鄂09刑申8号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ac04834ab1ccf0132cacdc215ba27f43",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "ac04834ab1ccf0132cacdc215ba27f43",
+      "dsid": "ECA7856130F592976A86CEC87DC08728",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初985号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a12978815a6b2cccf253df049267379b",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "a12978815a6b2cccf253df049267379b",
+      "dsid": "BE210EB3AE66033965F631BCF6336D5C",
+      "all_caseinfo_casenumber": "（2016）豫1702执3691号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "33e5874d4a943c988c9262a161c6eba5",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "33e5874d4a943c988c9262a161c6eba5",
+      "dsid": "D233613D2B9A475EEEC48CE06E4782DE",
+      "all_caseinfo_casenumber": "（2016）沪02刑更1178号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "485e1da74eab395e47231057527ee53",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "485e1da74eab395e47231057527ee53",
+      "dsid": "BD86C88FD039B6C236B1F61FB5F35D0F",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初885号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "27855df6a03e27638c73ef83865c7b5f",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "27855df6a03e27638c73ef83865c7b5f",
+      "dsid": "91F7698F2B863B854FA4410ADA9B2FB0",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初690号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2e4ea735b3f9ea0fdbdb8b8d254b3490",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "2e4ea735b3f9ea0fdbdb8b8d254b3490",
+      "dsid": "9D57D5F565B1D02E9E21B5B38A3D30A0",
+      "all_caseinfo_casenumber": "（2014）德中刑二初字第20号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ca77ba9cf9e245608394913a66d8704f",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "ca77ba9cf9e245608394913a66d8704f",
+      "dsid": "CB3B35924CF8C8E9EFF0BB77A89305E6",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初789号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "28abe0bef01f53fd9a52f0c179f4a3e3",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "28abe0bef01f53fd9a52f0c179f4a3e3",
+      "dsid": "D0AF014E91CF58BC4F0542CB256615C3",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初553号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "bf893f5d0334d750bede858c869366d6",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "bf893f5d0334d750bede858c869366d6",
+      "dsid": "D52478018188EF8BB9B536EE49A4E96D",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初442号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "E1C83A1765CE3783A93F888380AEC6C1",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "E1C83A1765CE3783A93F888380AEC6C1",
+      "dsid": "F0A3C27B297E86416811B336DF33F159",
+      "all_caseinfo_casenumber": "（2014）杨刑初字第187号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1ef0300d259112f03f0faa230e9dc6e",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "1ef0300d259112f03f0faa230e9dc6e",
+      "dsid": "EB9279FED0FF62DEBA4712553AA98C6C",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1817号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fb246eca7093d7f2803491d2ccc1c3df",
+    "_score": 13.053848,
+    "_source": {
+      "jid": "fb246eca7093d7f2803491d2ccc1c3df",
+      "dsid": "5D28D16673139343330086B07E1DD76F",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1438号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e85a0ce5fe4f6a4551c11e701b860159",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "e85a0ce5fe4f6a4551c11e701b860159",
+      "dsid": "12CE60452292587409AB525A19413E0A",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初837号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c28e38c3a5bc19479e15339f2a084723",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "c28e38c3a5bc19479e15339f2a084723",
+      "dsid": "FBC45F6B40EDF25F6F53F329D1EED5F5",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初2079号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cd45e157127b0a3fffaa1c53d739319f",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "cd45e157127b0a3fffaa1c53d739319f",
+      "dsid": "5185666D59BBA512DF2344F9C465F7CF",
+      "all_caseinfo_casenumber": "（2016）沪02刑更891号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3D495BF5902FF3818D66B03EF1F7B6E8",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "3D495BF5902FF3818D66B03EF1F7B6E8",
+      "dsid": "C4360FCCC6D6EDACEA611D7857FBAB8E",
+      "all_caseinfo_casenumber": "（2016）沪刑辖395号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "79F3038C43533D01CD41B820481E2CB8",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "79F3038C43533D01CD41B820481E2CB8",
+      "dsid": "04576FFDE9A7B76660CC289CDFA749F9",
+      "all_caseinfo_casenumber": "（2017）浙06执恢42号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d1a45c2fb3933d0cb69c84205ce47719",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "d1a45c2fb3933d0cb69c84205ce47719",
+      "dsid": "0D69450CB58532C3D4C475721CDFD0D5",
+      "all_caseinfo_casenumber": "（2017）冀0824刑初80号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "82f7318de64bc6f16b676c22551f40d6",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "82f7318de64bc6f16b676c22551f40d6",
+      "dsid": "6196D485C73FAE96FADE2FF8FA1DA998",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1373号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4E6562165581A30E3AE9FCFD0D2A84D9",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "4E6562165581A30E3AE9FCFD0D2A84D9",
+      "dsid": "7A0381A9846AB84046E7F303D698C2BE",
+      "all_caseinfo_casenumber": "（2015）杭萧刑执字第18号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4549a3f8ec8a5d0a9cc51b279928cd71",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "4549a3f8ec8a5d0a9cc51b279928cd71",
+      "dsid": "A230E7760FE0B9D25E3ABBF83313E570",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1538号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4b147994bf4063c1c4df644b2f4793fb",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "4b147994bf4063c1c4df644b2f4793fb",
+      "dsid": "C8E432F21C7699F1AF517647888B64FC",
+      "all_caseinfo_casenumber": "（2016）沪0109刑初537号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "23b99c74f68969ac988a202c2cbe3f6",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "23b99c74f68969ac988a202c2cbe3f6",
+      "dsid": "6FE42F0DF444AA86442D1476E8FC3F96",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1227号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e965e6551269dfc9a8b62b5cbc294ecc",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "e965e6551269dfc9a8b62b5cbc294ecc",
+      "dsid": "1990F16F6FBDE2F1F132EA7BF40FA359",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1427号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5d064ec383bcf3eba0e3c24b3fb6bc95",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "5d064ec383bcf3eba0e3c24b3fb6bc95",
+      "dsid": "B6C542B15F8D910E3599392C18A246E7",
+      "all_caseinfo_casenumber": "（2017）鄂0281刑初543号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9c590d3b855491842661e8705c99de4e",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "9c590d3b855491842661e8705c99de4e",
+      "dsid": "DDE01D2B4CC6E77B1312C34F3D02F6D6",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初838号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "C9CB083C41761783C1FC027687A17A6F",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "C9CB083C41761783C1FC027687A17A6F",
+      "dsid": "04D4E91F7C67AB292043271E354ED546",
+      "all_caseinfo_casenumber": "（2017）沪刑辖173号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1ba5612a32ffc84eb6b19bae0a528221",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "1ba5612a32ffc84eb6b19bae0a528221",
+      "dsid": "7802A9BA7EF6F78BC06461ABDBA5D075",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1432号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b3a18e4c965f2338821081b9acc28b91",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "b3a18e4c965f2338821081b9acc28b91",
+      "dsid": "96342A718567FD2EF27B02BC84891640",
+      "all_caseinfo_casenumber": "（2016）苏1204刑更5号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "dd68517e328444ae7139db1edefb13b9",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "dd68517e328444ae7139db1edefb13b9",
+      "dsid": "A90A7DCFB393D1C57D60185E6A91BFF8",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初511号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8770e09386f50790b8e47340ba6ea0cd",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "8770e09386f50790b8e47340ba6ea0cd",
+      "dsid": "BBAD88226CFB33B3D4C3B6E570F85622",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1125号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "19730d9bda804f5b993d9bb043e4a5b",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "19730d9bda804f5b993d9bb043e4a5b",
+      "dsid": "28E78C285F73CFA261DDEAC21FA9FCB3",
+      "all_caseinfo_casenumber": "（2015）州刑初字第194号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e692d5d604bd356516fdf43b4fbaf78f",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "e692d5d604bd356516fdf43b4fbaf78f",
+      "dsid": "E96B6F74D522649110C920A2B8395CD4",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1430号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8125266DA3EB9DF41002454D137C8191",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "8125266DA3EB9DF41002454D137C8191",
+      "dsid": "1D0C9C206CB632283748BA362245799A",
+      "all_caseinfo_casenumber": "（2017）沪刑申16号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e2cae7aa95bdfb999b0134868d693102",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "e2cae7aa95bdfb999b0134868d693102",
+      "dsid": "DB2C444231EEED1650E1D96D24D3753C",
+      "all_caseinfo_casenumber": "（2016）苏0205刑更1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fd0413bd974c5c0eb2d14148f190fb7a",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "fd0413bd974c5c0eb2d14148f190fb7a",
+      "dsid": "9BD31F5D33AD0C97AEF0BAAFD9F57C51",
+      "all_caseinfo_casenumber": "（2016）沪0109刑初539号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c9fd3d53f2fdf8512e5c83ce10f013e8",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "c9fd3d53f2fdf8512e5c83ce10f013e8",
+      "dsid": "16CDB274B32DAF30BCB46BD54740E5BC",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1553号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d82a9200ad3756638216cdd531b34a22",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "d82a9200ad3756638216cdd531b34a22",
+      "dsid": "A131DA4788EF1AD36C04CF2BD9153011",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1778号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cd121b0a11c465ef3df6f7b421ee7d05",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "cd121b0a11c465ef3df6f7b421ee7d05",
+      "dsid": "D2C87D7F068784347C555D0AE14066A9",
+      "all_caseinfo_casenumber": "（2017）川11刑辖12号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "98954983438f6f58ac1efa3b4507bf1b",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "98954983438f6f58ac1efa3b4507bf1b",
+      "dsid": "C915606437A043E145AFE473D9637F4F",
+      "all_caseinfo_casenumber": "（2016）湘1125刑更8号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "bf446058bbf59117466a89c6f88f9284",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "bf446058bbf59117466a89c6f88f9284",
+      "dsid": "E2652DA6E9B0C9A172D51E7D2C5D552A",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1619号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "71c3075783d9ebe7cf77e8f66fd3153b",
+    "_score": 13.05378,
+    "_source": {
+      "jid": "71c3075783d9ebe7cf77e8f66fd3153b",
+      "dsid": "D1F69C26629545F7388D0B3C23609620",
+      "all_caseinfo_casenumber": "（2015）沪三中刑初字第25号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c45b0acc4889883cbbc5501a8333bd03",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "c45b0acc4889883cbbc5501a8333bd03",
+      "dsid": "1F93412B351481A9C9C3ADF84183B12D",
+      "all_caseinfo_casenumber": "（2018）晋0423执300号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fef1139cf53428fcb36ec90e2fc8a0b2",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "fef1139cf53428fcb36ec90e2fc8a0b2",
+      "dsid": "1241A7ED9CEA86900E9D6C22B152CF6B",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1199号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ed524aa0019f391d3404997e7cedf90f",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "ed524aa0019f391d3404997e7cedf90f",
+      "dsid": "F683CE38030D193D3701DBC838A42D49",
+      "all_caseinfo_casenumber": "（2015）沪二中刑初字第102号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "447d0396dee9785295c2197e433958d8",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "447d0396dee9785295c2197e433958d8",
+      "dsid": "7AB97F7C308882BBCEFC9B852195A1C7",
+      "all_caseinfo_casenumber": "（2016）沪0104刑初666号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6a4eddd253c59c67926b860ba4aaa5",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "6a4eddd253c59c67926b860ba4aaa5",
+      "dsid": "D9317C403CF33A6290E8F143F17C340E",
+      "all_caseinfo_casenumber": "（2017）宁刑申60号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5605f6e9117afda5b02d2d03db8b9ed",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "5605f6e9117afda5b02d2d03db8b9ed",
+      "dsid": "E0E60A709EF4651456FFC6991137A393",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初431号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "C4AF85922B8F2EB0F71C27049A957BC8",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "C4AF85922B8F2EB0F71C27049A957BC8",
+      "dsid": "430A3660B8C0553EF1B026EAEDCD3C46",
+      "all_caseinfo_casenumber": "（2017）京01刑申4号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6e42feebea04d3396a4389d58ea23098",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "6e42feebea04d3396a4389d58ea23098",
+      "dsid": "6BB7D68B21A42F9057AC20C5AC575685",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1446号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "eceda8d462ac23cd640c8f333703dd88",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "eceda8d462ac23cd640c8f333703dd88",
+      "dsid": "439C1449D794B3AFE97B116E7A1914BB",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初203号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2665e1098d5411041fcf3daa07547933",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "2665e1098d5411041fcf3daa07547933",
+      "dsid": "CF47E166994831F12FA793F863933DD4",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初917号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b998978cc0dcc9222493fb6658006209",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "b998978cc0dcc9222493fb6658006209",
+      "dsid": "EC41FB02E525019BC7996A78584F87F8",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初890号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4c3e4f1ea8fa0a126bff4c3a6fd9d4b1",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "4c3e4f1ea8fa0a126bff4c3a6fd9d4b1",
+      "dsid": "465BE6DEFF52DFB37C9B75F4CA6CB21F",
+      "all_caseinfo_casenumber": "（2016）沪0120刑初1729号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cd3bec5045659e3da79ad60edeaab88a",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "cd3bec5045659e3da79ad60edeaab88a",
+      "dsid": "385E1D84B437EBDCBD64DFEF40EDF20C",
+      "all_caseinfo_casenumber": "（2016）冀06刑申2号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4728F4E4B63D184BBDF9AA60B4775580",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "4728F4E4B63D184BBDF9AA60B4775580",
+      "dsid": "78BEE8FC4142665217D71130E52F05FE",
+      "all_caseinfo_casenumber": "（2017）沪刑辖324号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "BA44A0E1633461A74E00FB114C7CCB88",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "BA44A0E1633461A74E00FB114C7CCB88",
+      "dsid": "2C43090C4205FE51E653D9D1840B7BDF",
+      "all_caseinfo_casenumber": "（2017）沪0107刑初459号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "28cc3d237100db94bd377b7ac988aa78",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "28cc3d237100db94bd377b7ac988aa78",
+      "dsid": "190EC06652BFF17D7D0E2DA0F2E56562",
+      "all_caseinfo_casenumber": "（2015）淮中刑监字第00006号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "99f6b367599c36b3026471765e9b7836",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "99f6b367599c36b3026471765e9b7836",
+      "dsid": "7800B8BCF52F7D15B23C743B7013D274",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初917号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "98c7d0c11fac03c0fd0a426b06f3a5fe",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "98c7d0c11fac03c0fd0a426b06f3a5fe",
+      "dsid": "ABA85759CD55437B0FE126313BDD7975",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初904号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "31483adfc9a2db0a3260647f7fe21690",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "31483adfc9a2db0a3260647f7fe21690",
+      "dsid": "3E782C3FF1E8F4BFC1C3CEBD050D858E",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初922号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1d1611ea7d42ab8b631e57912ecb71f",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "1d1611ea7d42ab8b631e57912ecb71f",
+      "dsid": "CD6BA6628E7465AF560FC8757BA0E2D3",
+      "all_caseinfo_casenumber": "（2016）沪0230刑初349号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b9803abbb151a0a0b6a7ed348c8644b8",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "b9803abbb151a0a0b6a7ed348c8644b8",
+      "dsid": "41CEB2006EF20740BB9A1BB51A41C01A",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初971号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "10aa62ec7f38ae43c230e7d91ea062e1",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "10aa62ec7f38ae43c230e7d91ea062e1",
+      "dsid": "5A21B7FD14E6787DA2AE1E22B6808957",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1415号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "253475C91513DA161B34A0A9655A0D73",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "253475C91513DA161B34A0A9655A0D73",
+      "dsid": "D689C649A2AC7C8A1A53461B7F8C2D4E",
+      "all_caseinfo_casenumber": "（2016）云0802刑初338号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e99dea54bd6c46527fd1eaf8272a87db",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "e99dea54bd6c46527fd1eaf8272a87db",
+      "dsid": "68E2D3165EE641C8870170F3285BBFFE",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初702号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1CF5C251A242201CD0565F53B7D06C23",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "1CF5C251A242201CD0565F53B7D06C23",
+      "dsid": "D9142826B9D9EAE14EC6CF2C1D450BCD",
+      "all_caseinfo_casenumber": "（2017）宁刑申39号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "43825759fafe0b8d2c187bace8f3fdef",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "43825759fafe0b8d2c187bace8f3fdef",
+      "dsid": "CD5F289312A3BAF655C1FE02D061C6E0",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初616号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f050f6951b0028237fbd7148aeabecaa",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "f050f6951b0028237fbd7148aeabecaa",
+      "dsid": "2FE63AEDABC62C04703F6091B9028F5C",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初964号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "bb320913ba8e4f0ae9519c9f6f98eaca",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "bb320913ba8e4f0ae9519c9f6f98eaca",
+      "dsid": "E2A9FFDBB8CA9E735C134024D83ED9A5",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1668号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "37d73f081aca374311e8298aa352afa9",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "37d73f081aca374311e8298aa352afa9",
+      "dsid": "82FC4D7E2A3DBD229ED0CEA034D457F4",
+      "all_caseinfo_casenumber": "（2016）松刑初字第1184号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2637e1edbe2553998af0c974ea1571ca",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "2637e1edbe2553998af0c974ea1571ca",
+      "dsid": "73A44914FD4056D26BC7D1E122A90505",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初468号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "50ae9db0a2b25ed593ef2b3c75f4308d",
+    "_score": 13.05195,
+    "_source": {
+      "jid": "50ae9db0a2b25ed593ef2b3c75f4308d",
+      "dsid": "6091931B65AC51C3635CDC1FEE2F16A4",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初788号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4814fdc306414a0930716c302fcd22e1",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "4814fdc306414a0930716c302fcd22e1",
+      "dsid": "5359B03165A4C06DB943AFA5EFE6A461",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初993号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3d6a12a1ddc1be404068e12323b869e6",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "3d6a12a1ddc1be404068e12323b869e6",
+      "dsid": "2F60DEB87EA44381669DFF1729A3B2D7",
+      "all_caseinfo_casenumber": "（2016）沪0120刑初1655号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "aea9c7d0799063c0c6811b9e98b72548",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "aea9c7d0799063c0c6811b9e98b72548",
+      "dsid": "A422FA35496CD69F2DC7D744BD94293C",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初928号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "25ec34dc128c54173a06ebec63681394",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "25ec34dc128c54173a06ebec63681394",
+      "dsid": "3F5308D612100E500DEA21E142F47DD6",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初825号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "858dd354d24ffa9aae933bff21dc310",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "858dd354d24ffa9aae933bff21dc310",
+      "dsid": "C97F6C68A68BC78A4CC0D8B2D4E9322C",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初732号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cff2c513defb6f18a15c641239dfea9b",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "cff2c513defb6f18a15c641239dfea9b",
+      "dsid": "ACA38D08AFD3283AF4FA457A4CE553A8",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1299号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "79f623cadd8539a0ffa7275a17e85ebf",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "79f623cadd8539a0ffa7275a17e85ebf",
+      "dsid": "EF91C9893305A299120A37F74D594800",
+      "all_caseinfo_casenumber": "（2016）沪02刑更1051号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cb465e9c94e344e29890a68de5199d6c",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "cb465e9c94e344e29890a68de5199d6c",
+      "dsid": "C2AEC91AC56D117D7E42F20B719F5935",
+      "all_caseinfo_casenumber": "（2017）川刑抗9号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4710836C353BC1153FC17F3A7A2FD2B2",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "4710836C353BC1153FC17F3A7A2FD2B2",
+      "dsid": "58886A7BAE7D8C7D3B883D7E6E69F45E",
+      "all_caseinfo_casenumber": "（2017）赣0483刑初51号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5e45d42a3845038dcb29f717dea43eab",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "5e45d42a3845038dcb29f717dea43eab",
+      "dsid": "25CA3BBD906D2B9193C56BDC97976234",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初906号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "80dc03916f4e051da9e7d5783f6202e0",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "80dc03916f4e051da9e7d5783f6202e0",
+      "dsid": "A93182FD718B29FDA6119F961698B3E2",
+      "all_caseinfo_casenumber": "（2016）沪0230刑初309号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "20282917cf67d94bb639c30112f6c7a6",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "20282917cf67d94bb639c30112f6c7a6",
+      "dsid": "C809B585879DFC6C8D7026675B122CA5",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初613号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "68ac375d75a48eb1bccd259ae61b64a0",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "68ac375d75a48eb1bccd259ae61b64a0",
+      "dsid": "F79E781DC00AF879F386589677DFD903",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1620号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d469e3321894dacc618da51f848adb60",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "d469e3321894dacc618da51f848adb60",
+      "dsid": "B71ABB9EC5330BD47D8F4C5B99EC98DD",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1163号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fae83af6294aee8b3ef733fdab34ba10",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "fae83af6294aee8b3ef733fdab34ba10",
+      "dsid": "5130C6CB014CA090043173FE2B6FC343",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1830号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c43bc1f8eea7694dc9e892a855716172",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "c43bc1f8eea7694dc9e892a855716172",
+      "dsid": "E5FBBF6C76D764DE09CEB9A17BFFE28E",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1510号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9ea2fcf52bcc63d081f2b9e01a235c0b",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "9ea2fcf52bcc63d081f2b9e01a235c0b",
+      "dsid": "632108C48C140B372D05000A0C128C29",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1912号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "97546b840de86982e95e4d8bef16d795",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "97546b840de86982e95e4d8bef16d795",
+      "dsid": "CDEF1C70275525665DCF19604131F9E6",
+      "all_caseinfo_casenumber": "（2017）赣04刑申06号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c3f7cce6458874bf02756d1ee2d67286",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "c3f7cce6458874bf02756d1ee2d67286",
+      "dsid": "50E92424841F98D645F7CA70993BFADF",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初505号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "db4fc8db1de67544685c047656096b37",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "db4fc8db1de67544685c047656096b37",
+      "dsid": "751A6829DC0BBC4D5E2018C06024530D",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初2191号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cef859cb1f559367d6cfffcd5bf7e1da",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "cef859cb1f559367d6cfffcd5bf7e1da",
+      "dsid": "119D314F0CF9D4E08A028E7396C211C3",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1386号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3b631906148cf8771daf37996bb52d72",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "3b631906148cf8771daf37996bb52d72",
+      "dsid": "97BDE2118960ED4BC7B8C595DEFFFB2F",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初738号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "14fedbbd943c622d9f284117784656f3",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "14fedbbd943c622d9f284117784656f3",
+      "dsid": "A6016EC69B8F66F3719ACF18886DF240",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初910号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "431e8a44aa959dbe52b45ebff053365f",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "431e8a44aa959dbe52b45ebff053365f",
+      "dsid": "0FE0E9EA40988CDB38E75653541A02F6",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初1272号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1a7303a30e3f42c9cbfc59133d5cfb8e",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "1a7303a30e3f42c9cbfc59133d5cfb8e",
+      "dsid": "E4773FA11B85C8513A9E00DA2B302B28",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初902号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2d600eb21fee80853ddf8327e3de11e9",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "2d600eb21fee80853ddf8327e3de11e9",
+      "dsid": "A492221E8A3DC12C706017EB46953AA1",
+      "all_caseinfo_casenumber": "（2014）商州刑执字第00004号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2b9da7986e7ffa3d215abc954b5fac7a",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "2b9da7986e7ffa3d215abc954b5fac7a",
+      "dsid": "4051ED157A534D92781F5EABDCD13F32",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初943号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7a1a394a47eb8f3a3cf1c4f835f90a26",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "7a1a394a47eb8f3a3cf1c4f835f90a26",
+      "dsid": "DA1FCEDB2ED05C5A94995D4871A4057A",
+      "all_caseinfo_casenumber": "（2017）冀刑申76号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "56e38672aad20d61039b9c27c55c91c4",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "56e38672aad20d61039b9c27c55c91c4",
+      "dsid": "BA21928B2B84BAE4FB7896389CCBE005",
+      "all_caseinfo_casenumber": "（2016）沪02刑更1204号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ac3956301078e528a54f06aa1eae8c7d",
+    "_score": 13.032889,
+    "_source": {
+      "jid": "ac3956301078e528a54f06aa1eae8c7d",
+      "dsid": "D10F127D680ED51509EDB96639825016",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初401号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a7f2a86ed8fa0a91bdcf2b89d71dd4fd",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "a7f2a86ed8fa0a91bdcf2b89d71dd4fd",
+      "dsid": "34338DB22D7737350D936E154C38BE60",
+      "all_caseinfo_casenumber": "（2016）沪02刑更926号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "CC3D184F2210F15D0A664223C4237BDE",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "CC3D184F2210F15D0A664223C4237BDE",
+      "dsid": "985D527E7B68E43FEFDB7B1470F0B34B",
+      "all_caseinfo_casenumber": "（2016）京刑申195号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a865e523e427e1c23f80df7b2215e05b",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "a865e523e427e1c23f80df7b2215e05b",
+      "dsid": "AF56737767CAB71BEB6E68B4EDF7B5A3",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初894号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "957d862465f56d3d2ef2b9c0f482a8c9",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "957d862465f56d3d2ef2b9c0f482a8c9",
+      "dsid": "88D3536C4215A8E0FD349CCEE96504D9",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1170号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "793d82e64f3379ba5b9fc6b19c20240a",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "793d82e64f3379ba5b9fc6b19c20240a",
+      "dsid": "FCB2E423FCBADDBB338C527CE355F6FD",
+      "all_caseinfo_casenumber": "（2016）苏0291刑初357号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "460b6630548403ef42a8832aa5604814",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "460b6630548403ef42a8832aa5604814",
+      "dsid": "F3539AC728572A55B3C7CCBA2AF294E1",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1429号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f0c9aca92145b36cdbb883bd9bb3e146",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "f0c9aca92145b36cdbb883bd9bb3e146",
+      "dsid": "3BF1FE9674E12D803527CCDE211039C0",
+      "all_caseinfo_casenumber": "（2016）沪02刑更1480号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "FBC4355B6DD3997925AE72C5FFC637E4",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "FBC4355B6DD3997925AE72C5FFC637E4",
+      "dsid": "EBC73D5DB99E8328A0BE94027BF64104",
+      "all_caseinfo_casenumber": "（2014）杭萧刑执字第45号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d9b915a7a21586248a39d1c05ab08cd9",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "d9b915a7a21586248a39d1c05ab08cd9",
+      "dsid": "1A123947FDCB57D64DCDFF234FA0EEDC",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1804号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "572e37fdd271c6b802bbeb5df2e6832e",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "572e37fdd271c6b802bbeb5df2e6832e",
+      "dsid": "021AE8CB7093DA8E774F419A67CF3455",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初975号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e84cff3f4165d2dbc40551dde19000d1",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "e84cff3f4165d2dbc40551dde19000d1",
+      "dsid": "9FA2FD2FC024809CACD59AA598DFCFCB",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初1015号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8b624775808aa9bdced2bf3898ac88ac",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "8b624775808aa9bdced2bf3898ac88ac",
+      "dsid": "35BFE74D59C93A518E620FC9287CD1DF",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1049号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "be3f2dd10e0eab8d5b7c6dda605b1cf3",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "be3f2dd10e0eab8d5b7c6dda605b1cf3",
+      "dsid": "B5E408BEE0D210C99705F66F1EB4207A",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1895号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a20c4d28717c8a169ea8b5b6c918031f",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "a20c4d28717c8a169ea8b5b6c918031f",
+      "dsid": "42F0BCA6585487D0192E23CBC8A6C1D4",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1206号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8317dfcce90b22ded8b1d02df609c916",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "8317dfcce90b22ded8b1d02df609c916",
+      "dsid": "6DDC095E1905D5BEA1814D29A2077662",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初920号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4319622e61c84fdb95f7affab4514603",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "4319622e61c84fdb95f7affab4514603",
+      "dsid": "C73CAC35DCE10153091A4AE60FC0E509",
+      "all_caseinfo_casenumber": "（2016）苏0291刑初363号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "44821605e78a1b161c6597630fba4a1b",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "44821605e78a1b161c6597630fba4a1b",
+      "dsid": "2601C58DEC7EE985EE656A42D63E6BF6",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1133号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3a8458ffe670620772e811a8d78dcd8a",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "3a8458ffe670620772e811a8d78dcd8a",
+      "dsid": "808D27417D08246A85B86E360115184C",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初990号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7bf9bac7f99d7fcdf6436350d5612135",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "7bf9bac7f99d7fcdf6436350d5612135",
+      "dsid": "915C245A599886BCAC4112E452E755B6",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1416号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "97752df3abdc1d8f2e78e091dc34dc3a",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "97752df3abdc1d8f2e78e091dc34dc3a",
+      "dsid": "D0C5AC2B82228C4B9CC2DDF58C7C5F25",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1762号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4e7b6b82acf2587143e4766cef59bb75",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "4e7b6b82acf2587143e4766cef59bb75",
+      "dsid": "D8B3112C46FCA29B3C565E5B921FB8B5",
+      "all_caseinfo_casenumber": "（2016）沪02刑更979号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "72882ec7abdec0bf1c269df1a61e9ece",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "72882ec7abdec0bf1c269df1a61e9ece",
+      "dsid": "68E9E24D4DE9F1923E45DA740F942690",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初2163号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d82fcb11136c2038de651fcd38e1979b",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "d82fcb11136c2038de651fcd38e1979b",
+      "dsid": "2C6918D6AAA4368C57FBDD5D41E2AE1A",
+      "all_caseinfo_casenumber": "（2016）最高法刑辖56号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "dca72273a521b502822884b33c0d09ab",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "dca72273a521b502822884b33c0d09ab",
+      "dsid": "20F0322A334FC91C1F4B86089764585B",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1171号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b3ab36545ccdf40d2e3128bf5dc35d78",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "b3ab36545ccdf40d2e3128bf5dc35d78",
+      "dsid": "618324026FF84FC1E59C8BB1EEE656CB",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1606号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ca3b0a8b19df60e829c5f90ddd81c17e",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "ca3b0a8b19df60e829c5f90ddd81c17e",
+      "dsid": "71534730496B72BBBE0D3165C3D2CCB4",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1759号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fc34dd5303dc1a5b1207f19c618b56fa",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "fc34dd5303dc1a5b1207f19c618b56fa",
+      "dsid": "273D595B67C521332925CFABC009BA6F",
+      "all_caseinfo_casenumber": "（2014）遵刑执字第216号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9d149977051c99067417f399b00dacbe",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "9d149977051c99067417f399b00dacbe",
+      "dsid": "A75E7C803A8F738536EC8C2B401F7BE0",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1410号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "bc695830166ae80e6b7899aae2545469",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "bc695830166ae80e6b7899aae2545469",
+      "dsid": "32A5A9D13861BC95507571EDF9BC42D3",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1664号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "329796d7a262297a4ac7471ba79b3e40",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "329796d7a262297a4ac7471ba79b3e40",
+      "dsid": "481ACC2C1C7EC5862BC32A8D721626CA",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初904号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b62939e0d3c6063d6309c2c87a063c40",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "b62939e0d3c6063d6309c2c87a063c40",
+      "dsid": "F1A5490A35B4516D7B7B8C4A9E26D7A0",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初792号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "595be4aaafd718fc73b059cc67a3e84e",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "595be4aaafd718fc73b059cc67a3e84e",
+      "dsid": "D0789F37A72A08FA28C739F6709D1E91",
+      "all_caseinfo_casenumber": "（2015）商州刑执字第00004号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "348372883f05f6aa05b16bcf0750ba09",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "348372883f05f6aa05b16bcf0750ba09",
+      "dsid": "A5DC4BD5A48CE0F5FDC005B3FF1EF49E",
+      "all_caseinfo_casenumber": "（2015）宝刑初字第2382号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "666a03393b6f623850bfd359d45d660a",
+    "_score": 13.031594,
+    "_source": {
+      "jid": "666a03393b6f623850bfd359d45d660a",
+      "dsid": "77215CE1E27A86AC26FF2C0360B03728",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1130号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "84de62c5951c7d206fa64236c896e9a8",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "84de62c5951c7d206fa64236c896e9a8",
+      "dsid": "F3F2C543FA2314578D21A2FED4977961",
+      "all_caseinfo_casenumber": "（2016）沪02刑更953号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2a99343efa87e149c446e1096b88215a",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "2a99343efa87e149c446e1096b88215a",
+      "dsid": "6FA2890E49E75BCADFC8EC6BEAA8C881",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1112号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4854b27323a7e6fa513dddeef3178e5",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "4854b27323a7e6fa513dddeef3178e5",
+      "dsid": "8B2DAEA8AFA642875AA08167D4F991A2",
+      "all_caseinfo_casenumber": "（2016）沪02刑更1482号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a923f1914d7ae180107b1c5670af7559",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "a923f1914d7ae180107b1c5670af7559",
+      "dsid": "F6ED7E2CEF26D79DBD3BA17F6550157C",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1095号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f11c04549a9a097535468c0161f4e3a3",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "f11c04549a9a097535468c0161f4e3a3",
+      "dsid": "6D88FE1B84E3F77B737C0E727ABFE2EB",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初1041号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1af9bb92246e9166b6999e875f76a469",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "1af9bb92246e9166b6999e875f76a469",
+      "dsid": "AA0A93E8F0A0F41A18CA6B786FD426F5",
+      "all_caseinfo_casenumber": "（2017）川0403刑申1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a91b2bf88e8a75e7dd4ad48865d0de2c",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "a91b2bf88e8a75e7dd4ad48865d0de2c",
+      "dsid": "8D8E17568CE00750A7AE06C6A88B89D5",
+      "all_caseinfo_casenumber": "（2016）沪02刑更1581号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "124cc7f5f97cec96caab2143b52deb8e",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "124cc7f5f97cec96caab2143b52deb8e",
+      "dsid": "CE9FAD1BB9F38535ED2DB3E5EA82A194",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1385号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "80B46E47F9D80A777616E37B752B4F3C",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "80B46E47F9D80A777616E37B752B4F3C",
+      "dsid": "CD4534FD63918AE8164C74856CC82AA9",
+      "all_caseinfo_casenumber": "（2016）浙0109刑更1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "25303BA0AE5FD4DA4248E8BF7D384B3D",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "25303BA0AE5FD4DA4248E8BF7D384B3D",
+      "dsid": "74FEF65DDCF0165660F3C1CBB95D73BA",
+      "all_caseinfo_casenumber": "（2015）金磐刑执字第2号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3EC55C62267173134052F78376EC7FEA",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "3EC55C62267173134052F78376EC7FEA",
+      "dsid": "92F5A4BCA569308F838D788F84F74B50",
+      "all_caseinfo_casenumber": "（2017）辽07刑初29号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8c4c9acb80087bfb9489f6f94a4a7348",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "8c4c9acb80087bfb9489f6f94a4a7348",
+      "dsid": "6DBC31F46A02CDFDED8C652C6CA8415D",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1509号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "78626a5a6ff2444ed412c2ae4b2f8643",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "78626a5a6ff2444ed412c2ae4b2f8643",
+      "dsid": "151C88FF4F2016947FAEADE7AFCAC593",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1720号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9dbfcab62b521a10bcb929b7951536b6",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "9dbfcab62b521a10bcb929b7951536b6",
+      "dsid": "2745312229B6CEB1600A6C40C431F48F",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1781号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3B2B7B211A0B33E8478A566ABC75C9F0",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "3B2B7B211A0B33E8478A566ABC75C9F0",
+      "dsid": "D06220081164D42EEB730ED964645D64",
+      "all_caseinfo_casenumber": "（2017）晋刑申121号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e48fb62827527bfb93d4aa3b70a24453",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "e48fb62827527bfb93d4aa3b70a24453",
+      "dsid": "0D030DFD44BB9939F29460E62C10C4EC",
+      "all_caseinfo_casenumber": "（2016）湘1125刑更6号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a642381eb2039bf3665d72dcf6c54423",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "a642381eb2039bf3665d72dcf6c54423",
+      "dsid": "A5226451AE09AA2BC247BACB6E90C24D",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1393号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3356a6c486de06e332592696d28d8776",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "3356a6c486de06e332592696d28d8776",
+      "dsid": "DC7A5407E749675ABC6AD89BC1522B78",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初835号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "af17599229b7a56f4d9464e195127fc5",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "af17599229b7a56f4d9464e195127fc5",
+      "dsid": "1DA27CB67C7766B9CF98EA96A02061AA",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初928号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "80fa6bea0bb0c7665fa05bb06810874d",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "80fa6bea0bb0c7665fa05bb06810874d",
+      "dsid": "862C7FCAF3F8EF05159D5195F419B074",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初970号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "743c3e855cc96dca56afbb0e7776e351",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "743c3e855cc96dca56afbb0e7776e351",
+      "dsid": "D6ACC9A1D3A65360C94FA7B4C2BC255D",
+      "all_caseinfo_casenumber": "（2014）杭萧刑执字第8号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "72ff596d990685e34fd664f8c4e10201",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "72ff596d990685e34fd664f8c4e10201",
+      "dsid": "EA90E7A215A60766B76636558F14B9BF",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1468号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d0cf8d629e0f6b172f107f37d627542c",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "d0cf8d629e0f6b172f107f37d627542c",
+      "dsid": "E37FCEE9BC19DDA37CB4D09D1ECA4328",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1504号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "CE683F93AA3AD4E3151AC30D2539E7CF",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "CE683F93AA3AD4E3151AC30D2539E7CF",
+      "dsid": "CF0EE9AE0C6E54DA800C784D9337FA01",
+      "all_caseinfo_casenumber": "（2014）四西刑公初字第128号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d3ee8bcc4250f17ed879543245bab53c",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "d3ee8bcc4250f17ed879543245bab53c",
+      "dsid": "00F022150633A6F96F05F0F9424B1D3E",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1386号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d58ac8fa12e5deaa0b261a7de64c803b",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "d58ac8fa12e5deaa0b261a7de64c803b",
+      "dsid": "EEEB69155C210503A37D21396CE28053",
+      "all_caseinfo_casenumber": "（2014）青刑初字第918号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "C8B0C643D10D9D2E806D01C9B08ED62F",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "C8B0C643D10D9D2E806D01C9B08ED62F",
+      "dsid": "12231FB768F348BFF24CDE3413B13AB1",
+      "all_caseinfo_casenumber": "（2016）沪刑辖416号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c7664030c261d9a7316b2cd4b09ba7d6",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "c7664030c261d9a7316b2cd4b09ba7d6",
+      "dsid": "58A8224ABCC69E267A625C66B27C2B2E",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初957号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f3b33a1278abb40d87abaf0e9c6bedf4",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "f3b33a1278abb40d87abaf0e9c6bedf4",
+      "dsid": "E659AB64342C0558D60E685F26E09BFF",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1417号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "15DE64FB79055D1B6272CCD594C1CFAE",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "15DE64FB79055D1B6272CCD594C1CFAE",
+      "dsid": "820847DBFFFA3E57DDAB6A7CBE6F297F",
+      "all_caseinfo_casenumber": "（2017）沪0117刑初483号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "bbffed173a0dc560e67606974e3ad69e",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "bbffed173a0dc560e67606974e3ad69e",
+      "dsid": "30C34B48413A8406D835E26956FDFA52",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1036号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "cd64eb30acbd414b94ddbacf47103fe6",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "cd64eb30acbd414b94ddbacf47103fe6",
+      "dsid": "8A2243CA44733D2B1E214747802D1715",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初832号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "E48B3D791FFD434C664455FA29665A50",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "E48B3D791FFD434C664455FA29665A50",
+      "dsid": "256D373B73E404D7C01803B69ACFBE92",
+      "all_caseinfo_casenumber": "（2016）沪刑辖394号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "E018B2E750702CE12E44ECAAEF552C93",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "E018B2E750702CE12E44ECAAEF552C93",
+      "dsid": "A79FC091CF16101E3F199DDDC08864A0",
+      "all_caseinfo_casenumber": "（2018）甘12刑更226号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f0a253eacae9369e11cd399a2af87b87",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "f0a253eacae9369e11cd399a2af87b87",
+      "dsid": "3ADD46A95B4077DE674B07AB13CB36CE",
+      "all_caseinfo_casenumber": "（2017）浙0802执2586号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "BCC961DCB72A28C1C540A9616A1EE1E3",
+    "_score": 13.029281,
+    "_source": {
+      "jid": "BCC961DCB72A28C1C540A9616A1EE1E3",
+      "dsid": "5830F746576DC9047212E57F169975BD",
+      "all_caseinfo_casenumber": "（2018）浙0122刑更1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "59e0639d300d0b19444bcb2bbce7c0f",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "59e0639d300d0b19444bcb2bbce7c0f",
+      "dsid": "C36797282B74B5983668876288E0F972",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1318号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "580a4b241c78d4c988fd23c78ca177a3",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "580a4b241c78d4c988fd23c78ca177a3",
+      "dsid": "3AB66478AF9EAB3BB76E35CD62941008",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1136号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7f5b1ce05060c43d4ccc9994eaa6522f",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "7f5b1ce05060c43d4ccc9994eaa6522f",
+      "dsid": "0168F2DF3C4D398F8866E821113DCA98",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1384号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c409401ad02dd5a40ca9416c25d528ee",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "c409401ad02dd5a40ca9416c25d528ee",
+      "dsid": "9EFB3A7AD67BF30201D60C4496E17392",
+      "all_caseinfo_casenumber": "（2016）京01刑更418号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3e0605c4beba3d436232131b6b1da28b",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "3e0605c4beba3d436232131b6b1da28b",
+      "dsid": "A111B2837C5854ABA0EE6649CBA8FFD5",
+      "all_caseinfo_casenumber": "（2017）最高法刑申677号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c4da8bd15edae5fb6ca71dcf61d787e0",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "c4da8bd15edae5fb6ca71dcf61d787e0",
+      "dsid": "1EC70874D206890BA2BF60CE53F0136B",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1419号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f6de384fd7a8f9319e28720b48f1f644",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "f6de384fd7a8f9319e28720b48f1f644",
+      "dsid": "E1331548CF1F8B1F830B3E8E366B7EC5",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初932号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b8e9c5a1a48b529194de018d7a4ef3fb",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "b8e9c5a1a48b529194de018d7a4ef3fb",
+      "dsid": "CBD78BB4D8C9449BC8B3E4BF8A65E138",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初912号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1907f6a2550ceb44473ec6c0c5bfbb47",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "1907f6a2550ceb44473ec6c0c5bfbb47",
+      "dsid": "F667850E2952EF1247D4F705A3FB387D",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初972号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "32AA6C5C729CACEB0D0A02841832BA69",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "32AA6C5C729CACEB0D0A02841832BA69",
+      "dsid": "6C2DE4F00E9C1D3F98C39CD6C77E4CCF",
+      "all_caseinfo_casenumber": "（2014）浙金刑抗字第5号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "941514c6310e28db350442a7fdc8b7e4",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "941514c6310e28db350442a7fdc8b7e4",
+      "dsid": "768B2FB6E0E3AB5D8E0F2FFEE4935823",
+      "all_caseinfo_casenumber": "（2014）浦刑初字第2884号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9CE9ACDD80651B9FE8CE24B916A9E25A",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "9CE9ACDD80651B9FE8CE24B916A9E25A",
+      "dsid": "55551BFB479741BD268B067B9C85286E",
+      "all_caseinfo_casenumber": "（2015）杭萧刑执字第12号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "AC841CC5197E810949131E50541201DC",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "AC841CC5197E810949131E50541201DC",
+      "dsid": "47BC8430ADDD7F3803062E1811237A86",
+      "all_caseinfo_casenumber": "（2017）内0526刑初286号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "419fca38c4f8c353bb73b554f5d2139f",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "419fca38c4f8c353bb73b554f5d2139f",
+      "dsid": "603EA1128F92B4A5B3310C1EB72CDB92",
+      "all_caseinfo_casenumber": "（2017）鄂11刑申27号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "609D73C102CC77EB53CE1EC1B83D27A2",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "609D73C102CC77EB53CE1EC1B83D27A2",
+      "dsid": "9FE454CD17325BE4CF6440DA887C2E09",
+      "all_caseinfo_casenumber": "（2015）台玉刑执字第10号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8EDBE0467E4B12FB314CB4F4468A8FE6",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "8EDBE0467E4B12FB314CB4F4468A8FE6",
+      "dsid": "2CBEF3A60DC7670CC339DF784CF3AEDB",
+      "all_caseinfo_casenumber": "（2015）宝刑执字第23号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fd39ed0172101a20b97c743458a336c2",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "fd39ed0172101a20b97c743458a336c2",
+      "dsid": "ACB145460FEA2950AB6C47E64FB8410B",
+      "all_caseinfo_casenumber": "（2016）沪0118刑初1003号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "94479a7990fcca7479b5ac1e8450ef78",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "94479a7990fcca7479b5ac1e8450ef78",
+      "dsid": "3B6BE2077F04D86250E96C0AD58D8C6E",
+      "all_caseinfo_casenumber": "（2015）长刑初字第724号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b830c0004f5293b702012313d7e5d115",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "b830c0004f5293b702012313d7e5d115",
+      "dsid": "A881113EE7CF7AAFB98459A8173DDD6A",
+      "all_caseinfo_casenumber": "（2016）黑06刑申7号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "E91256C7C29283BB16187DAFF6FB735A",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "E91256C7C29283BB16187DAFF6FB735A",
+      "dsid": "4E4717F1BD97E92D9482B8C6527C230C",
+      "all_caseinfo_casenumber": "（2016）沪刑申71号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f6c4b5bdc3cabe8810e8136931b28e85",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "f6c4b5bdc3cabe8810e8136931b28e85",
+      "dsid": "E8CEBC0C3F557669B0E28FD122AADDE3",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1894号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "12e7e87e5f00081ccb522f47baf7b505",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "12e7e87e5f00081ccb522f47baf7b505",
+      "dsid": "A64C73E02F183A8BB501C52D5A6E0B4D",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初842号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f2f68b1f7b0636bf280f510b7ee2473d",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "f2f68b1f7b0636bf280f510b7ee2473d",
+      "dsid": "9C59B4AD4182FA7313A2B6712E1C3852",
+      "all_caseinfo_casenumber": "（2014）松刑初字第1065号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f7df18d843184994cc91f433ed20f85e",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "f7df18d843184994cc91f433ed20f85e",
+      "dsid": "0B4A5544120C67EE219B0238D1FC636D",
+      "all_caseinfo_casenumber": "（2015）穗增法刑初字第1720号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e249af193bd1af9e194f94c540ebaefc",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "e249af193bd1af9e194f94c540ebaefc",
+      "dsid": "7E1C3159E22809EEA5AD16D82AE7877E",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初900号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5b60d2e36b00d3ec113d060c0e24bbbd",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "5b60d2e36b00d3ec113d060c0e24bbbd",
+      "dsid": "F7459329315419A6CB9E8FC7FD427475",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初721号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ffee01babe364ab918eebb4000206865",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "ffee01babe364ab918eebb4000206865",
+      "dsid": "C833A86572660EA5584832E19FBA45E6",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初2164号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "db23968fb7be618271db95c658166f9",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "db23968fb7be618271db95c658166f9",
+      "dsid": "85A00B6800FBC2ED421842D80DEFA237",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初1024号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "dad83f5f814c003bc4a9fa12cefbc0b0",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "dad83f5f814c003bc4a9fa12cefbc0b0",
+      "dsid": "94DDD5EEFFCF5EEA59F66AC4CD4C5EC6",
+      "all_caseinfo_casenumber": "（2016）沪0120刑初1526号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "107CA106156F4AE11D52E16FB03E5AA4",
+    "_score": 13.015561,
+    "_source": {
+      "jid": "107CA106156F4AE11D52E16FB03E5AA4",
+      "dsid": "1090D68217D4CAB92FB660D1AC73071B",
+      "all_caseinfo_casenumber": "（2014）长刑二初字第14号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1857afc0ff1cce1e6c10486289479770",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "1857afc0ff1cce1e6c10486289479770",
+      "dsid": "DE042EF0D31CEDA7B0F160025A20EC28",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1802号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f9dcdf575a5624cfd94d53be70cc2754",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "f9dcdf575a5624cfd94d53be70cc2754",
+      "dsid": "906763652E075A5C4A57F1058E226AAC",
+      "all_caseinfo_casenumber": "（2014）安中刑申字第69号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "A5F24397FEE98F6CD5DAA0B05F70EFB9",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "A5F24397FEE98F6CD5DAA0B05F70EFB9",
+      "dsid": "78D6A74D67B82F94E6F04DA4468654A5",
+      "all_caseinfo_casenumber": "（2014）四西刑公初字第129号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9e8b0245d510dc410da442a85c1faacc",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "9e8b0245d510dc410da442a85c1faacc",
+      "dsid": "7A614284CFD97C5D6929DFE2D523D9DF",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1404号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "13e18c9d845c84f259397b5bc39383e7",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "13e18c9d845c84f259397b5bc39383e7",
+      "dsid": "F4EB24AF9B4687A4D06FD424605C75D4",
+      "all_caseinfo_casenumber": "（2016）沪0120刑初1096号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fd0f258e0d65c509ec201167cc930004",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "fd0f258e0d65c509ec201167cc930004",
+      "dsid": "564B75B036DF1A47977FE2CB6AC4E22B",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初952号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6f2d446b1aea0e2fe450275a9119e699",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "6f2d446b1aea0e2fe450275a9119e699",
+      "dsid": "885F2CCF880F44CCA48EF7ECBD4043AE",
+      "all_caseinfo_casenumber": "（2017）鄂0281刑初72号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6e6a9ec4b4ab95960c9fb4f26831d720",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "6e6a9ec4b4ab95960c9fb4f26831d720",
+      "dsid": "BD97800714912ED7856C0D3652599FB0",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初2714号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "bbb04f69ccaf5c66eec0b165759bf304",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "bbb04f69ccaf5c66eec0b165759bf304",
+      "dsid": "9ACB6398364DF56878BC445C4F6D1A7B",
+      "all_caseinfo_casenumber": "（2015）普刑初字第1500号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "de2b5ca1acf62003dec3ee8256efa40e",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "de2b5ca1acf62003dec3ee8256efa40e",
+      "dsid": "2DF8CF92EF9935C0C4EDD23D02D64B62",
+      "all_caseinfo_casenumber": "（2016）沪02刑更855号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c6aac8a77c0a1b5bd2169acdf3d1c9eb",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "c6aac8a77c0a1b5bd2169acdf3d1c9eb",
+      "dsid": "D86D9B053A79429BD495CFFFCB338416",
+      "all_caseinfo_casenumber": "（2016）苏刑申2号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "bd81dd21db189b0017acf11a1828acaf",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "bd81dd21db189b0017acf11a1828acaf",
+      "dsid": "F48CEC8E05F87160086F73E8A9BCF087",
+      "all_caseinfo_casenumber": "（2017）鄂0281刑初63号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ab3c685adc12ed3c0e1ad90e6c0e996f",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "ab3c685adc12ed3c0e1ad90e6c0e996f",
+      "dsid": "7D9DF714F09F439EE6495A33F4DF2C55",
+      "all_caseinfo_casenumber": "（2017）赣刑申1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "98c2c4339baec72c3562080c8a5ccb5a",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "98c2c4339baec72c3562080c8a5ccb5a",
+      "dsid": "E42D68C01283DA6BD49636AA9CFF7873",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1411号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "89f1569d799773447ff1c992c7f1716e",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "89f1569d799773447ff1c992c7f1716e",
+      "dsid": "BD37C274B69D7CA93C97AEB5F31BF29A",
+      "all_caseinfo_casenumber": "（2014）青刑初字第889号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fd797f0ccd6148c7729069ad6ff4f37a",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "fd797f0ccd6148c7729069ad6ff4f37a",
+      "dsid": "BAD817C63A2663DA26B1E0117B35F0E3",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1385号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8310193de81d99146d3fb4a2b5ec8bbb",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "8310193de81d99146d3fb4a2b5ec8bbb",
+      "dsid": "51283DAA76E0145D186A774168BA04EA",
+      "all_caseinfo_casenumber": "（2015）嘉刑初字第1072号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d2114de5eacc79590f0c618f2dee19b7",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "d2114de5eacc79590f0c618f2dee19b7",
+      "dsid": "4D1EA48DD1AC5AABB6D4C4E92787694A",
+      "all_caseinfo_casenumber": "（2015）长刑初字第904号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b49644bd0d5bc52f1ce77e9ecc3ee186",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "b49644bd0d5bc52f1ce77e9ecc3ee186",
+      "dsid": "E0D8E8A9B63DA07524A4B7838C87789E",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1392号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b3e0a2b4a5a39a7c3fdbf63b8174da5c",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "b3e0a2b4a5a39a7c3fdbf63b8174da5c",
+      "dsid": "714A0CFEAD7A06AF0FAEC1796D3DED8C",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初976号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c53604d33b4cdcd7c847cd35e7221134",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "c53604d33b4cdcd7c847cd35e7221134",
+      "dsid": "104707B2D233FF3845896B89CDD8736A",
+      "all_caseinfo_casenumber": "（2017）湘13刑监1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "88e05e6356ccd74a4ba7d26ace839457",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "88e05e6356ccd74a4ba7d26ace839457",
+      "dsid": "F93EEBC9551494F65746727F8E2FFF5F",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初974号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "B4D9E0A39D7193436D7C54A46D7C01CC",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "B4D9E0A39D7193436D7C54A46D7C01CC",
+      "dsid": "932DA1EE17C5E1D375D4717DF69B6EED",
+      "all_caseinfo_casenumber": "（2016）浙07刑申3号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "daaffb6d753b2ca941a0cd1b7c41679e",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "daaffb6d753b2ca941a0cd1b7c41679e",
+      "dsid": "19924447F840746B22BA62AA6202D34A",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1534号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "218514a2d91d99dc3903821696e086df",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "218514a2d91d99dc3903821696e086df",
+      "dsid": "3BFBD36BF72CBD9D9747DE4053C2C8A7",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初980号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1b4b7f5e22da57902c91a2e6d60df619",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "1b4b7f5e22da57902c91a2e6d60df619",
+      "dsid": "C7E56E9C0CB530F74AADB5D50F76347C",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初940号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "7723cccc6dd925e9dea9251f8194578a",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "7723cccc6dd925e9dea9251f8194578a",
+      "dsid": "396F81592193ABDF4B3D0E4967FA5B18",
+      "all_caseinfo_casenumber": "（2016）沪02刑更1350号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "fbd424b2779d8c5691f7216b6323603",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "fbd424b2779d8c5691f7216b6323603",
+      "dsid": "DF65783EFE3A713A333E5EEC87DB44E6",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1433号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "83d1f1ed7fc83deabd9a918ad98b48fb",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "83d1f1ed7fc83deabd9a918ad98b48fb",
+      "dsid": "FBD27E770233DBFEEAB4C9D58E2437FD",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初496号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "59cb1837e62a895fbfd07eb9e20bbe81",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "59cb1837e62a895fbfd07eb9e20bbe81",
+      "dsid": "DCAE3FEF9D352CF3E3C28960B7ED48BD",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初909号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "944441dbe31dc6ef21d853bc9fff3418",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "944441dbe31dc6ef21d853bc9fff3418",
+      "dsid": "C721E32E832A86230BFDC275FE34563C",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1683号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "76613bbab9d16012955c1951d4d586eb",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "76613bbab9d16012955c1951d4d586eb",
+      "dsid": "7D78EBCA160B52BA291FAE01A706B113",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1746号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "93E604BA490E7C5CD929A4984FF8708F",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "93E604BA490E7C5CD929A4984FF8708F",
+      "dsid": "ACF3D7B4FD2AB03ED72A46A71AC8F8B8",
+      "all_caseinfo_casenumber": "（2017）沪刑辖52号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "4948ad2bf4875389940809236d6f1e31",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "4948ad2bf4875389940809236d6f1e31",
+      "dsid": "E4A9EC0D505FD319517110EB48706956",
+      "all_caseinfo_casenumber": "（2017）最高法刑辖2号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b62ca07c162bf04f71ad833f039f54c2",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "b62ca07c162bf04f71ad833f039f54c2",
+      "dsid": "2C09419EEE1545135A89DD147A4BB7B5",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初913号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9bd5645e7be2e54698df1b3119688cf4",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "9bd5645e7be2e54698df1b3119688cf4",
+      "dsid": "A10585F07A0058E38640A14524A36063",
+      "all_caseinfo_casenumber": "（2016）沪0120刑初1738号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "332e22f05b4cf8cdefd49277cb437609",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "332e22f05b4cf8cdefd49277cb437609",
+      "dsid": "74D5B79C5BED4A367F2F171DD9674755",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初847号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ac1542f24c8ff019b6d9db07ae30660f",
+    "_score": 13.008876,
+    "_source": {
+      "jid": "ac1542f24c8ff019b6d9db07ae30660f",
+      "dsid": "B3FA703963664D9FDECB35BBF1B99D9A",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初916号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "64da9bba52e7d0dd5fe489d19dd50de8",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "64da9bba52e7d0dd5fe489d19dd50de8",
+      "dsid": "86F93F07C979F4589CDA993F6FF57B68",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1352号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "954a3d1694875b48b2a05d32b14a5c4b",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "954a3d1694875b48b2a05d32b14a5c4b",
+      "dsid": "A5B1453E681BC556CFD4F27903DBD969",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初1209号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d88e398d41e79fad8aa2ccdad5b71e0a",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "d88e398d41e79fad8aa2ccdad5b71e0a",
+      "dsid": "76C795527431ED6A3B75108D43EFEAE7",
+      "all_caseinfo_casenumber": "（2015）温鹿执刑财字第1940号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "694ea75f7cb3210add60c6d57820b7ec",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "694ea75f7cb3210add60c6d57820b7ec",
+      "dsid": "7422832E5321FB280B7D0D2FB3CFDEF8",
+      "all_caseinfo_casenumber": "（2016）黑07刑申4号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b94d4d97778d83b4a43d52a189713b4d",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "b94d4d97778d83b4a43d52a189713b4d",
+      "dsid": "905E4443CB05775C3F84EA7D8B7DA92B",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初626号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "f65cc9d6387f1bb13233d8f0fe7feb14",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "f65cc9d6387f1bb13233d8f0fe7feb14",
+      "dsid": "EFA5E9F9A67F7F0206C2D953E0A9DC56",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1689号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "717a264b3b527d8ff32508e49fc94592",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "717a264b3b527d8ff32508e49fc94592",
+      "dsid": "65D5863E65B66EC84B06C7D9B5E3368D",
+      "all_caseinfo_casenumber": "（2013）安中刑申字第26号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a9e8fa8babb94bb2901f676a84f05164",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "a9e8fa8babb94bb2901f676a84f05164",
+      "dsid": "7C957774C8F4DD936BEA3CEAE88B6A94",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初882号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ee4433a2f150e2c99994e0e45818d536",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "ee4433a2f150e2c99994e0e45818d536",
+      "dsid": "5AB2F659848730AAC70BC2CE8D5C63C7",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初478号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "87a618889571ef1e135a55642a0d9066",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "87a618889571ef1e135a55642a0d9066",
+      "dsid": "FC0A968CA4026B0589B88CB3E33F2966",
+      "all_caseinfo_casenumber": "（2014）松刑初字第1329号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "41506de349785e00ebd7953db18ebf68",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "41506de349785e00ebd7953db18ebf68",
+      "dsid": "B07F7FA24979AB674A10BD5C7B01296B",
+      "all_caseinfo_casenumber": "（2015）嘉刑初字第1070号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a0c491c71b037d20596f2146826246c7",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "a0c491c71b037d20596f2146826246c7",
+      "dsid": "AF70C4321D6FE10B5FFF1F77F284292D",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初467号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c9aab50e4cd1a0986e1ec532dbc3273a",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "c9aab50e4cd1a0986e1ec532dbc3273a",
+      "dsid": "395CE149C41856A58514B5F45A715261",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1008号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "c4ccb3b9a84bfe24149bc7018cb9cd4b",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "c4ccb3b9a84bfe24149bc7018cb9cd4b",
+      "dsid": "09D9C63C472E07B892B1E56CFA49D0A6",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1899号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "96fc5f56feb15cc78a6be2390d437e14",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "96fc5f56feb15cc78a6be2390d437e14",
+      "dsid": "8202B475F4FB0C299AA771E3A74E8AA6",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初909号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "da6d4efbd1f8e2898640844af0871622",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "da6d4efbd1f8e2898640844af0871622",
+      "dsid": "D661BF95F404C1C53D50C1AA5B0EE7A5",
+      "all_caseinfo_casenumber": "（2016）桂刑申39号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "1d3ece9296a875a70a127463cb2df9d9",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "1d3ece9296a875a70a127463cb2df9d9",
+      "dsid": "AD647E52AEB1D38A75CAF31AFAC3BB04",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1959号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "84801ce1f0afb1ff833ecb04de127ef1",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "84801ce1f0afb1ff833ecb04de127ef1",
+      "dsid": "EF03056938A4EDCA4C557B5F2F82D8E6",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1389号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "803dd58bce6f480987a79571ce1b16c5",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "803dd58bce6f480987a79571ce1b16c5",
+      "dsid": "1FCEE7BE570A0400A5B31F6967072273",
+      "all_caseinfo_casenumber": "（2015）嘉刑初字第977号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "17906779f4dd8a2ae4aed2e08ed4794c",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "17906779f4dd8a2ae4aed2e08ed4794c",
+      "dsid": "590891A9D842F4DCEA076D484DD13B26",
+      "all_caseinfo_casenumber": "（2017）辽10刑申4号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b9cc8dcf296e068e1ced7778493a607e",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "b9cc8dcf296e068e1ced7778493a607e",
+      "dsid": "B29573ABE802753EFE03E69B84105D71",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初914号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "66acc6f3b32e28940732d53cc908fae4",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "66acc6f3b32e28940732d53cc908fae4",
+      "dsid": "261B208102A1A58B13D39616ADBBC1FC",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1482号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "84e55da1df2ef49b78991a3c5b04ac74",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "84e55da1df2ef49b78991a3c5b04ac74",
+      "dsid": "7D2A79C6CA4CA4A92CD0C8978089ABEE",
+      "all_caseinfo_casenumber": "（2016）沪0107刑初913号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "320a18d5b8f37fb518150e20cd9e6094",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "320a18d5b8f37fb518150e20cd9e6094",
+      "dsid": "0681F589B2E479B830DDFD24A810D2DB",
+      "all_caseinfo_casenumber": "（2017）晋08刑辖14号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "5eef23b39744d073fe8be01328b568",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "5eef23b39744d073fe8be01328b568",
+      "dsid": "27CAAB0193571E9D97F296AF989C849A",
+      "all_caseinfo_casenumber": "（2015）长刑初字第1202号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "68C67238676F9C2FD12E2584EBF9A7D6",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "68C67238676F9C2FD12E2584EBF9A7D6",
+      "dsid": "6415B736BC58CD8FED0A7462D8DEAD72",
+      "all_caseinfo_casenumber": "（2017）浙0111刑初833号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e440c67c1c79ba4b627c5d15a7b80f0f",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "e440c67c1c79ba4b627c5d15a7b80f0f",
+      "dsid": "BA3512493DA4FFF5FCBBF988945E916E",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1364号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8874234558b648e9453d098ca03948a7",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "8874234558b648e9453d098ca03948a7",
+      "dsid": "4D030D9689CBE88804395D8886377279",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1747号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "95a565ae34baaa185e209fc6f43063ba",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "95a565ae34baaa185e209fc6f43063ba",
+      "dsid": "B53B3D97C64E0067CAE0B8B6D8E52A7E",
+      "all_caseinfo_casenumber": "（2017）辽02刑初133号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "669d3f017efa738936011c0679cd74e",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "669d3f017efa738936011c0679cd74e",
+      "dsid": "803E9338D848AC08141A47A9B15D15AD",
+      "all_caseinfo_casenumber": "（2018）川18刑辖2号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b5ae0138b3c42096737239ff242609be",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "b5ae0138b3c42096737239ff242609be",
+      "dsid": "3BED4CF995371DF42205F4072120E4B4",
+      "all_caseinfo_casenumber": "（2017）浙0603执5391号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "C859B87FD42DB1A5B844F45330E5DB48",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "C859B87FD42DB1A5B844F45330E5DB48",
+      "dsid": "8DCD6D4E9910D135220195598659A2A1",
+      "all_caseinfo_casenumber": "（2018）新23刑更36号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6c691c92a3bc46fc5936cb72ed1e6de2",
+    "_score": 13.006858,
+    "_source": {
+      "jid": "6c691c92a3bc46fc5936cb72ed1e6de2",
+      "dsid": "11C1BC57C6B2798322B6F3154E576A74",
+      "all_caseinfo_casenumber": "（2017）浙0603执5392号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d82843571e72abbf599deafe5cf885f8",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "d82843571e72abbf599deafe5cf885f8",
+      "dsid": "C1F6746314F6A0AA0F3A83D67A8C2410",
+      "all_caseinfo_casenumber": "（2014）嘉刑初字第1056号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e7ae58ae4dc5d129de35a1ca659a4539",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "e7ae58ae4dc5d129de35a1ca659a4539",
+      "dsid": "1CC7B1108455867097AE02A40E4D0DD7",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1047号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3A1985B1CCBCCF0C34BE5B4D71F57697",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "3A1985B1CCBCCF0C34BE5B4D71F57697",
+      "dsid": "0A01758E93D99E0B12557C8AE38480BE",
+      "all_caseinfo_casenumber": "（2016）赣0103刑初781号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "28cacae981187a68642bd8d7d83b4814",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "28cacae981187a68642bd8d7d83b4814",
+      "dsid": "5A96C3D12F5B02C5AC645D37BA1162C6",
+      "all_caseinfo_casenumber": "（2016）沪0104刑初652号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d8e77ede06fb932a6d1603246fa55909",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "d8e77ede06fb932a6d1603246fa55909",
+      "dsid": "FB27C67372779FDF5479241152420DB3",
+      "all_caseinfo_casenumber": "（2008）越刑初字第283号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e81e3c0e01188bcdbbace6a54ea1f25d",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "e81e3c0e01188bcdbbace6a54ea1f25d",
+      "dsid": "8B7E08B21B3C29A6900660C9DD7CB45D",
+      "all_caseinfo_casenumber": "（2014）松刑初字第971号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "09D563680D61667FFDAEDE2AD90DA2F0",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "09D563680D61667FFDAEDE2AD90DA2F0",
+      "dsid": "B39FFDD16B3AF3239B802B29EAA6ADB1",
+      "all_caseinfo_casenumber": "（2017）沪刑辖24号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "B3360D325DD5EDA3404D32B84DB4858A",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "B3360D325DD5EDA3404D32B84DB4858A",
+      "dsid": "778E9C0E8E5C599ED5117DE0E0FCB7F4",
+      "all_caseinfo_casenumber": "（2014）温乐刑执字第20号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e31af66adbc2378a2cb63d23c4114626",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "e31af66adbc2378a2cb63d23c4114626",
+      "dsid": "479F2A9F3A72DD7757B0AEAD0886472C",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1198号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "341c94e49dcfc56eced493682ff01f07",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "341c94e49dcfc56eced493682ff01f07",
+      "dsid": "83CEC202B0EE48F300D69CDC3B30157F",
+      "all_caseinfo_casenumber": "（2016）沪0113刑初1007号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "461f03fd09f09f72fc8de18979e3309c",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "461f03fd09f09f72fc8de18979e3309c",
+      "dsid": "1E0F64D8195BFA0F9E6A9077A415484D",
+      "all_caseinfo_casenumber": "（2016）苏0291刑初403号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "b6ffef98c13ca05f2e75fa5f68d38a93",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "b6ffef98c13ca05f2e75fa5f68d38a93",
+      "dsid": "729A8409EAA8D96348802A989C501835",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初823号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "38b5a385e8b9e6d1a95bc1fca959bb8c",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "38b5a385e8b9e6d1a95bc1fca959bb8c",
+      "dsid": "87969359B348D65A293DE978AA0531FA",
+      "all_caseinfo_casenumber": "（2016）陕1002刑他3号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "ab29b439f2a73e71f4d4930386138f50",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "ab29b439f2a73e71f4d4930386138f50",
+      "dsid": "64C2B8E1B9A47607B147BF38578B1910",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初519号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9eb2e793c2fded899bee7dc233a35266",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "9eb2e793c2fded899bee7dc233a35266",
+      "dsid": "50C5F77DDE3A5B625689576198290431",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初3486号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "15cff965bb6629579fba8212cfc44bcb",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "15cff965bb6629579fba8212cfc44bcb",
+      "dsid": "CB4847042D79C4783F13C97E21ACF580",
+      "all_caseinfo_casenumber": "（2018）苏1204刑更1号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "db4090d99eeb09ddcf1f818dc047dba9",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "db4090d99eeb09ddcf1f818dc047dba9",
+      "dsid": "3C72D81D30474A33CE3D20E9422DCCCA",
+      "all_caseinfo_casenumber": "（2016）苏刑申150号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "6D057EDDFC8DED49248F0BB0EC086269",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "6D057EDDFC8DED49248F0BB0EC086269",
+      "dsid": "FC5532CD99152446285C99F3E5CEC6AC",
+      "all_caseinfo_casenumber": "（2017）沪刑辖25号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2916ac2ad177c7a2d53a250cc059678b",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "2916ac2ad177c7a2d53a250cc059678b",
+      "dsid": "1341673B95F5DDC04452C84B1E19419A",
+      "all_caseinfo_casenumber": "（2016）沪0101刑初983号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "e40c416ff99f732622de5d071bf07e2a",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "e40c416ff99f732622de5d071bf07e2a",
+      "dsid": "B35C38EF0A4EDF9243E99C031B441769",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1883号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "571e1550a0698b94ca9cd88d2dd16724",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "571e1550a0698b94ca9cd88d2dd16724",
+      "dsid": "B5360A868590003F7BB3CF7A1DA1F953",
+      "all_caseinfo_casenumber": "（2017）鲁1523执1651号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9f97b5762fbb7a42460f73fef9002e77",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "9f97b5762fbb7a42460f73fef9002e77",
+      "dsid": "D629FF46336A6757A25914908FF42BEE",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初1118号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "aff005acaacfb80d1fec2f5c2b98f347",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "aff005acaacfb80d1fec2f5c2b98f347",
+      "dsid": "86F340A5810A44DE62EB02B7325E73EC",
+      "all_caseinfo_casenumber": "（2016）沪0120刑初1880号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "8657cc0d3605f24007f88ad3a156353",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "8657cc0d3605f24007f88ad3a156353",
+      "dsid": "8E21D4E577A3AA29EFE510AAD434AF6F",
+      "all_caseinfo_casenumber": "（2016）沪0115刑初984号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "B3B661AF8B29AA2B6E47E009BDCE8BF2",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "B3B661AF8B29AA2B6E47E009BDCE8BF2",
+      "dsid": "2C29B8561E0DF164DD3395AAEC36E7C4",
+      "all_caseinfo_casenumber": "（2017）沪刑辖202号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "67a2676f3403160c96652d825d6eac76",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "67a2676f3403160c96652d825d6eac76",
+      "dsid": "823AA8950A5A7F40D824922F15BD8297",
+      "all_caseinfo_casenumber": "（2015）伊中刑申字第11号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "9ec8a63a64df152fa229b847c21bd585",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "9ec8a63a64df152fa229b847c21bd585",
+      "dsid": "165157DACB5CA724871766EA756DD557",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初916号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "2a091a196292fef88b2e608d41e463f7",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "2a091a196292fef88b2e608d41e463f7",
+      "dsid": "1DD4E9EE1D6606B2329E01C0FD1C4413",
+      "all_caseinfo_casenumber": "（2016）沪0114刑初1533号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "a517b49aace208bedd470d89525658ec",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "a517b49aace208bedd470d89525658ec",
+      "dsid": "AE23568CFA56ACD0B992ABF3400F2A8F",
+      "all_caseinfo_casenumber": "（2018）苏08刑申4号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "758ce0887f6ae0c2bd3b3c10e5203663",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "758ce0887f6ae0c2bd3b3c10e5203663",
+      "dsid": "4C6392C0D1428277FAEF3A825F1467DA",
+      "all_caseinfo_casenumber": "（2016）沪0117刑初1394号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "164008aed38c6639531107ed790e66fd",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "164008aed38c6639531107ed790e66fd",
+      "dsid": "D6300551A33DCA16B0202E81A0FB2C16",
+      "all_caseinfo_casenumber": "（2016）沪0110刑初881号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "307B39F621652E5078EFDC0DC5A15DE9",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "307B39F621652E5078EFDC0DC5A15DE9",
+      "dsid": "B5D65BE06E469F88183F01FD21865AE2",
+      "all_caseinfo_casenumber": "（2016）粤0883刑初326号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "33972ab2bc6209c231bf5e1bc079fc4a",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "33972ab2bc6209c231bf5e1bc079fc4a",
+      "dsid": "0447F21C93F26476A7E53D1BC0D52AD9",
+      "all_caseinfo_casenumber": "（2016）沪0106刑初176号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "3bb37994eddb343f23025d49fba4fdd4",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "3bb37994eddb343f23025d49fba4fdd4",
+      "dsid": "0A09806FDAB2B6D9AFE85C14C2D3D8C3",
+      "all_caseinfo_casenumber": "（2016）沪0116刑初936号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "d92517b5b5e923cc1e22754a529c2a6b",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "d92517b5b5e923cc1e22754a529c2a6b",
+      "dsid": "250160E0CDEBB78DD823F9639A5E90BA",
+      "all_caseinfo_casenumber": "（2017）鄂28刑辖16号"
+    }
+  },
+  {
+    "_index": "judgement_20180518",
+    "_type": "judgement",
+    "_id": "15E30E458D1A87AD80A718D398BD4E84",
+    "_score": 13.002806,
+    "_source": {
+      "jid": "15E30E458D1A87AD80A718D398BD4E84",
+      "dsid": "1785C85D52F0B109F968E4C888578267",
+      "all_caseinfo_casenumber": "（2017）浙0702刑初1169号"
+    }
+  }
+]
